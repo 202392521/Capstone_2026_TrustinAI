@@ -1,0 +1,374 @@
+GPT-5 Trust Stance Annotation Prompt (Version 2)
+
+Overall principle
+
+You are annotating Reddit comments discussing Artificial Intelligence.
+
+Follow the coding schema exactly.
+
+The TARGET COMMENT is the primary object of annotation.
+
+Use post title and parent comment only to disambiguate the target comment.
+Do not transfer the parent comment's stance, trust content, or evidence into the target comment unless the target explicitly adopts or responds to it.
+Never infer labels from the post title alone.
+
+Do not infer trust-related content merely because the comment expresses an attitude toward AI or discusses AI capability.
+
+Trust-related coding should only be applied when the author discusses whether AI should be relied upon, how reliable it is, or the conditions under which reliance is appropriate.
+
+STEP 1: AI relevance
+
+Determine whether the target comment is genuinely discussing AI, including machine learning, LLMs, generative AI, AI-assisted systems, Copilot, ChatGPT, Claude, Gemini, or similar systems.
+
+STEP 2: Human attitude
+
+Code the author's stance toward AI in the target comment:
+
+- positive
+- negative
+- mixed_or_ambivalent
+- neutral_descriptive
+- unclear
+
+STEP 3: Capability assessment
+
+Code whether the author believes AI has:
+
+- high_capability
+- limited_capability
+- mixed_or_conditional_capability
+- no_capability_assessment
+- unclear
+
+CAPABILITY versus TRUST
+
+CAPABILITY asks:
+"Can AI perform the task, and how well?"
+
+Examples:
+
+- AI is good at coding.
+- AI cannot reason about complex systems.
+- AI can replace programmers.
+- AI is faster than humans.
+- AI produces weak summaries.
+- AI is powerful.
+- AI lacks creativity.
+
+These are capability or attitude claims unless the author also discusses reliance, reliability, verification, accountability, or conditions for trust.
+
+TRUST asks:
+"Should humans rely on AI, do they actually rely on it, and under what conditions?"
+
+Examples:
+
+- I always verify AI-generated code.
+- AI is unreliable.
+- I use it for boilerplate but not production systems.
+- I rely on it for first drafts.
+- Never use it without human review.
+- Its hallucinations make it unsafe to depend on.
+- Liability remains with the professional.
+
+Capability does not automatically imply trust.
+Positive or negative attitude does not automatically imply trust.
+Use does not automatically imply trust unless the target describes actual reliance, delegation, or acceptance of AI output.
+
+GATE 1: Substantive trust content
+
+Before assigning a trust construct, decide:
+
+Does the target comment contain substantive trust content?
+
+Answer YES only when the target comment explicitly discusses at least one of the following:
+
+1. Reliability
+- reliable
+- unreliable
+- trustworthy
+- dependable
+- consistency
+- whether outputs can be counted on
+
+2. Accuracy or correctness
+- hallucinations
+- factual errors
+- incorrect citations
+- fabricated commands
+- bugs
+- mistakes
+- output validity
+
+3. Verification or oversight
+- checking
+- reviewing
+- testing
+- validating
+- human supervision
+- human approval
+- reading the source
+- load testing
+- audit or review
+
+4. Reliance or delegation
+- willingness to rely
+- actual reliance
+- delegating tasks
+- accepting AI output
+- using AI output as a basis for action
+- dependence on AI
+- replacing human judgement with AI
+
+5. Accountability or responsibility
+- liability
+- ethics
+- confidentiality
+- professional responsibility
+- insurance
+- privilege
+- who is accountable for errors
+
+6. Explicit limits on reliance
+- only for certain tasks
+- not for high-risk tasks
+- acceptable only with checking
+- suitable for one context but not another
+- model-specific or domain-specific limits
+
+Do NOT mark substantive trust content merely because the target comment:
+
+- expresses a positive attitude toward AI;
+- expresses a negative attitude toward AI;
+- says AI is powerful;
+- says AI is weak;
+- discusses job replacement;
+- discusses automation;
+- discusses productivity;
+- discusses adoption;
+- discusses AI capability;
+- predicts future AI performance;
+- recommends learning AI;
+- criticises AI-generated work;
+- describes a social consequence;
+- mentions that AI was used.
+
+These are not trust discussions unless reliability, reliance, verification, accountability, or conditions of use are explicitly discussed.
+
+When uncertain, prefer:
+
+no_trust_content
+
+Trust construct decision
+
+If Gate 1 is NO:
+
+human_trust_construct = no_trust_content
+
+If Gate 1 is YES, classify:
+
+1. perceived_trustworthiness
+The author evaluates whether AI or its outputs are reliable, accurate, dependable, safe, honest, or fit to be trusted.
+
+Examples:
+- ChatGPT fabricates legal citations.
+- AI-generated code is unreliable.
+- It gives correct conclusions but invents the law.
+- The output is inconsistent.
+
+2. attitudinal_trust_willingness_to_rely
+The author expresses willingness, unwillingness, intention, or readiness to rely on AI, but does not clearly describe actual reliance.
+
+Examples:
+- I would use it only for low-risk tasks.
+- I would not rely on AI for diagnosis.
+- I am open to using it with safeguards.
+
+3. trusting_behaviour
+The author describes actual reliance, delegation, use, acceptance, or action based on AI output.
+
+Examples:
+- I use Copilot to write documentation.
+- I rely on AI for first drafts.
+- A client sends ChatGPT output and expects it to be used.
+- The firm uses CoCounsel in practice.
+
+Important:
+
+Mere experimentation is not automatically trusting_behaviour.
+Asking AI a question without accepting, using, or acting on the output is not enough.
+Actual reliance, delegation, or incorporation into work is required.
+
+If more than one trust construct is clearly present, use multiple_trust_constructs.
+If the evidence is genuinely insufficient, use unclear.
+
+GATE 2: Explicit trust boundary
+
+Before assigning a trust boundary, decide:
+
+Does the target comment explicitly state a condition, limit, safeguard, concern, or acceptance rule governing reliance on AI?
+
+Answer YES only if the target specifies at least one of:
+
+- human checking or verification;
+- task-specific or context-specific limits;
+- explicit acceptance of AI output;
+- explicit refusal to rely on AI output;
+- hallucination or accuracy concern;
+- legal, ethical, confidentiality, liability, or accountability constraint;
+- model-specific trust or distrust.
+
+Do NOT infer a trust boundary merely because:
+
+- the comment is positive or negative;
+- the author discusses capability;
+- the author discusses job replacement;
+- the author says AI is useful;
+- the author says AI is bad;
+- the author mentions AI use;
+- the author recommends AI;
+- the author dislikes AI;
+- the author describes employment consequences.
+
+If no explicit condition or limit is stated:
+
+human_trust_boundary = no_trust_boundary_discussed
+
+When uncertain, prefer:
+
+no_trust_boundary_discussed
+
+Trust boundary categories
+
+If Gate 2 is YES, classify:
+
+1. trusts_AI_output
+The target explicitly accepts, endorses, or relies on AI output without stating a safeguard or limitation.
+
+2. distrusts_AI_output
+The target explicitly rejects, refuses, or broadly discounts AI output without identifying a more specific dominant reason.
+
+3. bounded_trust_with_human_checking
+Reliance is acceptable only with human checking, testing, review, validation, or approval.
+
+4. trust_depends_on_task_or_context
+Reliance depends on task type, risk, domain, model, context, or complexity.
+
+5. concern_about_hallucination_or_accuracy
+The dominant boundary concerns hallucinations, factual error, fabricated information, incorrect code, inconsistency, or inaccurate output.
+
+6. concern_about_ethics_liability_or_accountability
+The dominant boundary concerns confidentiality, privilege, ethics, legal liability, insurance, responsibility, professional accountability, or governance.
+
+7. model_specific_trust
+The target explicitly compares or singles out a specific AI model/tool as more or less trustworthy than another model/tool.
+
+Priority rules when more than one applies:
+
+- If explicit human checking is the central condition, choose bounded_trust_with_human_checking.
+- If hallucination or factual inaccuracy is the central stated problem, choose concern_about_hallucination_or_accuracy.
+- If ethics, liability, confidentiality, or accountability is central, choose concern_about_ethics_liability_or_accountability.
+- If model-specific comparison is central, choose model_specific_trust.
+- If the main distinction is between acceptable and unacceptable tasks or contexts, choose trust_depends_on_task_or_context.
+- Use distrusts_AI_output only when rejection is broad and no more specific reason dominates.
+- Use trusts_AI_output only when acceptance is explicit and no boundary is stated.
+
+Target-comment-only examples
+
+NO TRUST:
+
+Comment:
+"AI will replace programmers."
+
+Labels:
+human_trust_construct = no_trust_content
+human_trust_boundary = no_trust_boundary_discussed
+
+Reason:
+Employment prediction only.
+
+NO TRUST:
+
+Comment:
+"LLMs are bad at complex programming."
+
+Labels:
+human_trust_construct = no_trust_content
+human_trust_boundary = no_trust_boundary_discussed
+
+Reason:
+Capability assessment only.
+
+YES TRUSTWORTHINESS:
+
+Comment:
+"ChatGPT keeps inventing PowerShell commands that do not exist."
+
+Labels:
+human_trust_construct = perceived_trustworthiness
+human_trust_boundary = concern_about_hallucination_or_accuracy
+
+YES TRUSTING BEHAVIOUR:
+
+Comment:
+"I use Claude to write documentation all the time and rarely change anything."
+
+Labels:
+human_trust_construct = trusting_behaviour
+human_trust_boundary = no_trust_boundary_discussed
+
+YES BOUNDED TRUST:
+
+Comment:
+"I use AI-generated code, but I always test and review it before production."
+
+Labels:
+human_trust_construct = trusting_behaviour
+human_trust_boundary = bounded_trust_with_human_checking
+
+YES TASK-DEPENDENT TRUST:
+
+Comment:
+"I use it for boilerplate, but I do not let it touch the production codebase."
+
+Labels:
+human_trust_construct = trusting_behaviour
+human_trust_boundary = trust_depends_on_task_or_context
+
+YES ATTITUDINAL TRUST:
+
+Comment:
+"I would use AI for initial legal research, but never cite a case without reading it."
+
+Labels:
+human_trust_construct = attitudinal_trust_willingness_to_rely
+human_trust_boundary = bounded_trust_with_human_checking
+
+NO TRUST DESPITE NEGATIVE ATTITUDE:
+
+Comment:
+"I hate that AI is changing programming."
+
+Labels:
+human_trust_construct = no_trust_content
+human_trust_boundary = no_trust_boundary_discussed
+
+Reason:
+Negative professional consequence, not reliability or reliance.
+
+Output rules
+
+Return only valid JSON.
+Do not return markdown.
+Do not explain the answer.
+Do not invent labels.
+Use exact label strings from the schema.
+Include all target fields in one response.
+
+Consistency rules:
+
+- If has_substantive_trust_content = false, human_trust_construct must be no_trust_content.
+- If human_trust_construct = no_trust_content, has_substantive_trust_content must be false.
+- If has_explicit_trust_boundary = false, human_trust_boundary must be no_trust_boundary_discussed.
+- If human_trust_boundary = no_trust_boundary_discussed, has_explicit_trust_boundary must be false.
+- Do not output trusting_behaviour unless actual reliance, delegation, or incorporation of AI output is described.
+- Do not output a trust boundary unless the condition or limit is explicit in the target comment.
