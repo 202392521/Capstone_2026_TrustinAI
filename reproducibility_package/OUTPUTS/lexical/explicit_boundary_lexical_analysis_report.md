@@ -16,7 +16,9 @@ Interpretive caution: this is a model-identified boundary-positive subset. The c
 
 ## Validation context
 - Validation directory: `outputs/four_industry_full_schema_validation_100_performance_2026-07-30`
-- Exact validation metrics are copied into `explicit_boundary_lexical_analysis_metrics.json`.
+- Exact validation metrics from the analysis-time validation snapshot are copied into `explicit_boundary_lexical_analysis_metrics.json`.
+
+The validation metrics embedded in this folder reflect the validation snapshot available when the lexical analysis was run on 31 July 2026. Final dissertation validation metrics are reported in `VALIDATION/balanced100` and supersede these values for final model evaluation. The frozen 2,000-comment production predictions and the 861-comment boundary-positive subset are unchanged.
 
 ## Main outputs
 - `explicit_boundary_prevalence_by_industry.csv`
