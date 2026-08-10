@@ -1,0 +1,5 @@
+industry,total_trust_n,Positive n,Positive %,Mixed / ambivalent n,Mixed / ambivalent %,Neutral / descriptive n,Neutral / descriptive %,Negative n,Negative %
+Finance,275,87,31.6,77,28.0,22,8.0,89,32.4
+Healthcare,335,83,24.8,87,26.0,21,6.3,144,43.0
+Law,317,46,14.5,63,19.9,43,13.6,165,52.1
+Software engineering,277,83,30.0,84,30.3,14,5.1,96,34.7

@@ -1,0 +1,2 @@
+master_file,master_rows_total,valid_pooled_documents,selected_min_topic_size,selected_min_samples,final_substantive_topics,final_outlier_count,final_outlier_rate,final_largest_substantive_topic_share_nonout,final_domination_flag_count,balanced_substantive_topics,balanced_outlier_rate,embedding_model,run_timestamp
+outputs/four_industry_ai_comments_master_harmonised_total_posts_ranked_v4_law_llm_degree_cleaned.csv,36681,36171,150,5,18,5478,0.151447,0.405239,1,7,0.04407,sentence-transformers/all-MiniLM-L6-v2,2026-07-26T19:20:20

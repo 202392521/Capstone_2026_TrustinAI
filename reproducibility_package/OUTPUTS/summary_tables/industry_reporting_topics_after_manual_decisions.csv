@@ -1,0 +1,80 @@
+industry,reporting_topic,Count,label,meta_theme,share_reporting_comments
+finance,0,749,Automation of accounting tasks and the future of the profession,Occupational displacement and job security,0.3424782807498857
+finance,1,652,AI tools for accounting work and professional learning,Augmentation and productivity,0.2981252857796068
+finance,2,217,"AI-enabled auditing, assurance and human verification","Responsibility, liability and governance",0.09922267946959305
+finance,3,197,AI-driven job displacement and long-term economic change,Occupational displacement and job security,0.09007773205304069
+finance,4,156,"How AI works: pattern matching, training data and limits",AI capabilities and conceptual boundaries,0.07133058984910837
+finance,5,74,"AI in tax preparation, compliance and audit",Industry-specific applications,0.03383630544124371
+finance,6,71,Everyday AI-assisted finance workflows and human review,Augmentation and productivity,0.03246456332876086
+finance,7,71,"AI, offshoring and global labour substitution",Occupational displacement and job security,0.03246456332876086
+healthcare,0,1269,"AI therapy, emotional support and the value of human relationships",Relational and embodied care,0.2559499798305768
+healthcare,1,620,"AI in radiology, pathology and diagnostic imaging",Industry-specific applications,0.12505042355788623
+healthcare,2,488,AI-assisted clinical documentation and medical scribing,Augmentation and productivity,0.09842678499394918
+healthcare,3,481,"AI, mid-level substitution and changing medical roles",Occupational displacement and job security,0.09701492537313433
+healthcare,4,438,"Bedside nursing, telehealth and automation of care delivery",Relational and embodied care,0.08834207341670028
+healthcare,5,397,"AI-assisted study, assessment and healthcare education","Education, training and deskilling",0.08007260992335619
+healthcare,7,227,"Clinical AI tools, diagnostic assistance and required expertise",Acceptable delegation and boundaries of use,0.045784590560709965
+healthcare,8,213,"AI in pharmacy, prescribing and medication management",Industry-specific applications,0.042960871319080274
+healthcare,9,180,"Clinical diagnosis, treatment planning and the limits of remote AI",Reliability and human verification,0.03630496167809601
+healthcare,10,159,"Healthcare job displacement, automation and economic change",Occupational displacement and job security,0.03206938281565147
+healthcare,11,149,"Clinical evidence, diagnostic accuracy and validation of medical AI",Reliability and human verification,0.030052440500201696
+healthcare,12,139,Future expectations and technological change in healthcare,AI capabilities and conceptual boundaries,0.028035498184751918
+healthcare,13,123,"Medical malpractice, liability and responsibility for AI errors","Responsibility, liability and governance",0.02480839048003227
+healthcare,14,75,"HIPAA compliance, patient privacy and confidential data",Privacy and confidentiality,0.015127067365873336
+law,0,1692,"AI-generated content, authenticity and professional disruption","Creativity, authorship and content legitimacy",0.4151128557409225
+law,1,874,"AI-assisted legal research, drafting and professional safeguards",Augmentation and productivity,0.21442590775269874
+law,2,264,"AI capabilities, licensing and legal-sector implications",AI capabilities and conceptual boundaries,0.0647693817468106
+law,3,227,"Lawyer displacement, augmentation and professional adaptation",Occupational displacement and job security,0.055691854759568206
+law,4,216,AI-assisted legal drafting and verification of work product,Acceptable delegation and boundaries of use,0.05299313052011776
+law,9,126,"AI-generated art, originality and contractual disputes","Creativity, authorship and content legitimacy",0.030912659470068694
+law,5,107,"Junior legal work, career pathways and professional demand",Occupational displacement and job security,0.026251226692836114
+law,7,82,"Westlaw and Lexis AI: use, reliability and verification",Industry-specific applications,0.020117762512266928
+law,8,78,"AI, billable hours and legal pricing models",Market hype and political economy,0.019136408243375858
+law,10,70,Automation and the future of paralegal work,Occupational displacement and job security,0.01717369970559372
+law,11,69,"Client confidentiality, legal privilege and cloud-based AI",Privacy and confidentiality,0.016928361138370953
+law,12,52,"AI-assisted hiring, interviews and candidate assessment","Responsibility, liability and governance",0.012757605495583905
+law,14,49,Fabricated citations and lawyers' duty to verify,Reliability and human verification,0.012021589793915604
+law,15,46,"Reliability, liability and vendor accountability in legal AI","Responsibility, liability and governance",0.011285574092247301
+law,16,44,"Algorithmic judging, judicial bias and human oversight","Responsibility, liability and governance",0.010794896957801767
+law,17,40,Cross-professional comparisons of AI substitution,Acceptable delegation and boundaries of use,0.009813542688910697
+law,18,40,"Copyright, authorship and licensing of AI-generated works","Creativity, authorship and content legitimacy",0.009813542688910697
+software_engineering,0,2291,"LLM reasoning, memory and intelligence",AI capabilities and conceptual boundaries,0.2114834302593926
+software_engineering,1,1208,"AI-assisted programming, debugging and documentation",Augmentation and productivity,0.11151112341918212
+software_engineering,2,805,GitHub Copilot as a coding assistant,AI tools and coding workflows,0.07430997876857749
+software_engineering,3,705,"Code generation, debugging and dependence on AI",Acceptable delegation and boundaries of use,0.06507892550540016
+software_engineering,4,639,"Automation, productivity and software workforce restructuring",Occupational displacement and job security,0.05898643035170313
+software_engineering,16,594,"GPT model capability, scaling and coding performance",AI capabilities and conceptual boundaries,0.05483245638327333
+software_engineering,5,550,AI agents and the changing boundaries of programming expertise,Acceptable delegation and boundaries of use,0.05077079294747531
+software_engineering,17,339,"AI use, cheating and learning in computing education","Education, training and deskilling",0.03129327056217114
+software_engineering,7,305,"Degrees, reskilling and entry into AI and data-science careers","Education, training and deskilling",0.028154712452690852
+software_engineering,8,241,"Vibe coding, maintainability and professional expertise",Professional responsibility and software quality,0.022246838364257362
+software_engineering,11,225,Junior developer displacement and the senior talent pipeline,Occupational displacement and job security,0.02076986984214899
+software_engineering,12,202,"Defining AI, machine learning and generative AI",AI capabilities and conceptual boundaries,0.018646727591618204
+software_engineering,13,190,"AI-era software hiring, interviews and recruitment",Occupational displacement and job security,0.017539001200036923
+software_engineering,20,178,"Productivity gains, adoption pressure and overreliance",Augmentation and productivity,0.016431274808455645
+software_engineering,15,172,"AI search, Google substitution and trust in answers",Communication and information practices,0.015877411612665007
+software_engineering,18,150,Claude Code and agentic development workflows,AI tools and coding workflows,0.013846579894765993
+software_engineering,19,144,"AI-assisted CAD, drafting and engineering design",Industry-specific applications,0.013292716698975353
+software_engineering,29,143,"Next-token prediction, intelligence and model understanding",AI capabilities and conceptual boundaries,0.01320040616634358
+software_engineering,21,119,"Copyright, plagiarism and AI-generated content","Creativity, authorship and content legitimacy",0.01098495338318102
+software_engineering,22,116,The calculator analogy: AI as augmentation rather than expertise,Augmentation and productivity,0.010708021785285701
+software_engineering,23,111,Mathematics and foundational learning for AI and ML careers,"Education, training and deskilling",0.010246469122126834
+software_engineering,24,108,"Engineering education, critical thinking and AI overreliance","Education, training and deskilling",0.009969537524231515
+software_engineering,25,106,"AI-generated code review, ownership and accountability",Professional responsibility and software quality,0.009784916458967969
+software_engineering,27,100,"AGI, OpenAI governance and future developer displacement","Governance, ethics and societal risk",0.009231053263177328
+software_engineering,28,96,Replacement narratives and pressure to adopt AI,Occupational displacement and job security,0.008861811132650235
+software_engineering,30,92,"Developer skill retention, architecture and AI-assisted productivity","Education, training and deskilling",0.008492569002123142
+software_engineering,32,85,"AI data centres, energy use and water consumption",Environmental and infrastructure impacts,0.00784639527370073
+software_engineering,34,81,Web-development automation and occupational change,Occupational displacement and job security,0.007477153143173636
+software_engineering,35,80,AI-mediated workplace communication and cognitive effects,Communication and information practices,0.007384842610541863
+software_engineering,36,80,"AI hype, investment and the dot-com bubble analogy",Market hype and political economy,0.007384842610541863
+software_engineering,37,71,AI in mechanical and industrial engineering practice,Industry-specific applications,0.006554047816855904
+software_engineering,39,64,"AI slop, content quality and human creativity","Creativity, authorship and content legitimacy",0.00590787408843349
+software_engineering,40,60,"Superintelligence, existential risk and human obsolescence","Governance, ethics and societal risk",0.005538631957906397
+software_engineering,41,60,"Autocomplete, boilerplate and narrow coding assistance",AI tools and coding workflows,0.005538631957906397
+software_engineering,42,60,"Speech-to-text, summarisation and bot-like communication",Communication and information practices,0.005538631957906397
+software_engineering,43,60,"Ethical responsibility, security and ownership of AI-generated code",Professional responsibility and software quality,0.005538631957906397
+software_engineering,45,52,"AI risk narratives, fear and present-day harms","Governance, ethics and societal risk",0.004800147696852211
+software_engineering,46,51,Web-development versus machine-learning career pathways,"Education, training and deskilling",0.004707837164220438
+software_engineering,49,50,"AI-generated tests, verification and software quality",Professional responsibility and software quality,0.004615526631588664
+software_engineering,50,50,"Historical automation, innovation and the future of coding",Occupational displacement and job security,0.004615526631588664

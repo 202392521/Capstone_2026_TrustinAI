@@ -1,0 +1,21 @@
+{
+  "run_type": "offline_recalculation_no_api_calls",
+  "old_validation_file": "outputs/four_industry_full_schema_validation_100_performance_2026-07-30/four_industry_full_schema_validation_100_human_gpt_merged.csv",
+  "balanced_2000_file": "outputs/balanced_2000_final_stance_analysis_2026-08-01/balanced_2000_stance_analysis.csv",
+  "new_blinded_healthcare_23_file": "outputs/healthcare_balanced_validation_23_2026-08-03/healthcare_balanced_validation_23_annotated.csv",
+  "gpt_prediction_source": "outputs/frozen_prompt_v2_stratified_sample_2000_2026-07-24/all_comments_v2_annotated.csv",
+  "composition": {
+    "existing_non_healthcare": 75,
+    "existing_balanced_healthcare_overlap": 2,
+    "new_blinded_balanced_healthcare": 23
+  },
+  "n_rows": 100,
+  "unique_comment_ids": 100,
+  "industry_counts": {
+    "finance": 25,
+    "healthcare": 25,
+    "law": 25,
+    "software_engineering": 25
+  },
+  "output_dir": "outputs/four_industry_balanced_sample_validation_100_performance_2026-08-04"
+}

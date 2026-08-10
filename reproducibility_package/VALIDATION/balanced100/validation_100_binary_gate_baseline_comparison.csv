@@ -1,0 +1,7 @@
+gate,model_or_baseline,n,positive_class_prevalence,predicted_positive_rate,true_positive,true_negative,false_positive,false_negative,accuracy,precision,recall,specificity,balanced_accuracy,negative_predictive_value,f1,matthews_correlation_coefficient
+substantive_trust_content,actual_model,100,0.73,0.94,71,4,23,2,0.75,0.7553,0.9726,0.1481,0.5604,0.6667,0.8503,0.2257
+substantive_trust_content,always_positive,100,0.73,1.0,73,0,27,0,0.73,0.73,1.0,0.0,0.5,0.0,0.8439,0.0
+substantive_trust_content,always_negative,100,0.73,0.0,0,27,0,73,0.27,0.0,0.0,1.0,0.5,0.27,0.0,0.0
+explicit_trust_boundary,actual_model,100,0.73,0.69,60,18,9,13,0.78,0.8696,0.8219,0.6667,0.7443,0.5806,0.8451,0.469
+explicit_trust_boundary,always_positive,100,0.73,1.0,73,0,27,0,0.73,0.73,1.0,0.0,0.5,0.0,0.8439,0.0
+explicit_trust_boundary,always_negative,100,0.73,0.0,0,27,0,73,0.27,0.0,0.0,1.0,0.5,0.27,0.0,0.0

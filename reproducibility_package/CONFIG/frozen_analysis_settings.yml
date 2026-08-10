@@ -1,0 +1,55 @@
+study:
+  period_start: "2023-03"
+  period_end: "2026-01"
+  post_date_defines_eligibility: true
+  later_comments_on_eligible_posts_retained: true
+  active_ai_months_threshold: 10
+  balanced_stance_sample: 500_per_industry
+corpus_sampling:
+  top_tier_subreddits: 5
+  top_tier_posts_per_subreddit: 30
+  standard_posts_per_subreddit: 10
+  top_tier_comment_request_cap: 1000
+  standard_comment_request_cap: 300
+bertopic_common:
+  text_input: comment_body_only
+  minimum_cleaned_characters: 30
+  embedding_model: sentence-transformers/all-MiniLM-L6-v2
+  random_seed: 42
+  umap:
+    n_neighbors: 15
+    n_components: 5
+    min_dist: 0.0
+    metric: cosine
+  vectorizer:
+    ngram_range: [1, 3]
+    min_df: 5
+    max_df: 0.8
+  topic_reduction: false
+  reassign_outliers: false
+industry_models:
+  finance: {min_cluster_size: 70, min_samples: 10}
+  healthcare: {min_cluster_size: 70, min_samples: 10}
+  law: {min_cluster_size: 35, min_samples: 10, corpus_cleaning: "Master of Laws LLM false positives removed"}
+  software_engineering: {min_cluster_size: 35, min_samples: 5}
+pooled_model:
+  min_cluster_size: 150
+  min_samples: 5
+  jsd_baseline: "P(industry | all pooled-modelled comments), excluding Topic -1 from displayed topics"
+explicit_boundary_model:
+  source: "GPT-5 mini positive explicit-boundary subset"
+  input_comments: 861
+  modelled_comments: 858
+  min_cluster_size: 12
+  min_samples: 3
+  vectorizer_min_df: 1
+weighted_log_odds:
+  comparison: "explicit-boundary positive versus negative comments in the balanced 2,000-comment sample"
+  unigram_min_total_document_frequency: 10
+  ngram_min_total_document_frequency: 5
+  group_min_document_frequency: 5
+  empirical_prior: "pooled corpus term counts + 0.01 Dirichlet smoothing; alpha_0 equals pooled token total"
+validation:
+  final_sample: "100 comments, 25 per industry"
+  healthcare_holdout: 50
+  non_healthcare_note: "Enriched for model-identified substantive-trust discourse; not an unconditional random sample."

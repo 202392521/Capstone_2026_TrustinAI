@@ -1,0 +1,27 @@
+metric,value
+industry,law
+input_file,outputs/four_industry_ai_comments_master_harmonised_total_posts_ranked_v4_law_llm_degree_cleaned.csv
+total_rows,5964
+modelled_rows,5876
+excluded_empty_unusable_rows,88
+text_definition,comment_body
+substantive_topics_excluding_outlier,19
+topics_found_including_outlier,20
+outlier_count,1708
+outlier_rate,0.290674
+embedding_model,sentence-transformers/all-MiniLM-L6-v2
+random_seed,42
+min_topic_size,35
+min_samples,10
+min_df,5
+max_df,0.8
+ngram_range,"(1, 3)"
+stopword_policy,generic_ai_reddit_terms_plus_occupational_identity_terms
+industry_identity_stopwords,attorney; attorneys; barrister; barristers; counsel; court; courts; firm; firms; law; laws; lawyer; lawyers; legal; solicitor; solicitors
+representation_model,keybert_mmr
+nr_topics,none
+calculate_probabilities,0
+domination_flagged_topics,6
+post_month_outside_window_rows,0
+comment_month_outside_window_rows,6
+run_timestamp,2026-07-26T01:07:17

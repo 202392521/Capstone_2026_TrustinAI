@@ -1,0 +1,69 @@
+{
+  "verdict": "PASS",
+  "checks": {
+    "final_rows_equal_100": true,
+    "comment_ids_unique": true,
+    "exactly_25_per_industry": true,
+    "gpt56_complete_100": true,
+    "gpt51_complete_100": true,
+    "new_blind_input_has_only_whitelisted_fields": true,
+    "new_blind_input_has_23_unique_rows": true,
+    "new_blind_input_excludes_human_gold_notes": true,
+    "gpt56_and_gpt51_prompt_hash_match": true,
+    "gpt56_and_gpt51_schema_hash_match": true
+  },
+  "industry_counts": {
+    "finance": 25,
+    "healthcare": 25,
+    "law": 25,
+    "software_engineering": 25
+  },
+  "new_healthcare23_blind_input": "outputs/balanced_100_other_models_healthcare23_blind_2026-08-09/healthcare23_MODEL_INPUT_ONLY.csv",
+  "new_healthcare23_input_columns": [
+    "comment_id",
+    "parent_context",
+    "target_comment"
+  ],
+  "model_run_metadata": {
+    "gpt56": {
+      "returned_model_ids": [
+        "gpt-5.6-sol"
+      ],
+      "prompt_hashes": [
+        "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38"
+      ],
+      "schema_hashes": [
+        "395567b00f1468ce1513126cb0cfb073173f11621087c003d8668500b6073147"
+      ],
+      "retry_count_total": 0,
+      "original_run_n": 77,
+      "healthcare23_completion_n": 23
+    },
+    "gpt51": {
+      "returned_model_ids": [
+        "gpt-5.1-2025-11-13"
+      ],
+      "prompt_hashes": [
+        "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38"
+      ],
+      "schema_hashes": [
+        "395567b00f1468ce1513126cb0cfb073173f11621087c003d8668500b6073147"
+      ],
+      "retry_count_total": 0,
+      "original_run_n": 77,
+      "healthcare23_completion_n": 23
+    }
+  },
+  "gpt5mini_metadata": {
+    "model_identifiers": [
+      "gpt-5-mini"
+    ],
+    "prompt_hashes": [
+      "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38"
+    ],
+    "schema_hashes": [
+      "5026c5b22df9e0820abfaf7351a032960d6f1a9ea4bf0f6e2e8722f43fe8d52d"
+    ],
+    "note": "GPT-5 mini used the same Frozen Prompt V2 but an earlier richer response schema. Evaluation uses the six label fields shared by all three models."
+  }
+}

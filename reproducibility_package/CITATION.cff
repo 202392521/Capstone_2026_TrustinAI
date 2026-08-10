@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated dissertation."
+title: "Professional AI Trust Boundaries on Reddit: Reproducibility Package"
+type: software
+version: "1.0.0"
+date-released: 2026-08-09
+authors:
+  - family-names: Zhao
+    given-names: Qichen
+license: MIT

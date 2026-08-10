@@ -1,0 +1,6 @@
+industry,sample_comments,existing_annotations_reused,new_annotations_needed,unique_subreddits,unique_posts,uk_strong_comments
+finance,500,500,0,18,152,88
+healthcare,500,376,124,32,212,13
+law,500,0,500,16,143,94
+software_engineering,500,0,500,29,220,4
+TOTAL,2000,876,1124,95,727,199

@@ -1,0 +1,9 @@
+gate,human_label,gpt_label,count
+substantive_trust_content,human_yes,gpt_yes,71
+substantive_trust_content,human_no,gpt_yes,23
+substantive_trust_content,human_yes,gpt_no,2
+substantive_trust_content,human_no,gpt_no,4
+explicit_trust_boundary,human_yes,gpt_yes,60
+explicit_trust_boundary,human_no,gpt_yes,9
+explicit_trust_boundary,human_yes,gpt_no,13
+explicit_trust_boundary,human_no,gpt_no,18

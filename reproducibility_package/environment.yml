@@ -1,0 +1,9 @@
+name: occupational-ai-reddit
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.13
+  - pip
+  - pip:
+      - -r requirements.txt

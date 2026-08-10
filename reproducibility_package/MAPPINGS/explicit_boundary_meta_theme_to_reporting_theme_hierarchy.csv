@@ -1,0 +1,15 @@
+reporting_theme_id,final_reporting_theme,n_comments,final_meta_theme,confidence
+RT02,"AI as a research and problem-solving aid: task suitability, hallucinations and verification burden",94,Verification and epistemic reliability,Medium
+RT03,"Legal AI in research and drafting: fabricated authorities, verification and professional liability",90,Verification and epistemic reliability,High
+RT14,"Domain-specific tax AI: verified sources, fact-checking and bounded advisory use",14,Verification and epistemic reliability,High
+RT05,"AI-assisted coding: boilerplate productivity, learning and developer responsibility",56,Task-specific augmentation and occupational limits,High
+RT06,"Accounting and bookkeeping automation: capability limits, decision risk and human review",46,Task-specific augmentation and occupational limits,High
+RT07,Routine drafting and workflow automation: efficiency under human oversight,41,Task-specific augmentation and occupational limits,High
+RT08,"AI replacement claims: hype, adaptation and boundaries of human roles",39,Task-specific augmentation and occupational limits,High
+RT01,"Clinical AI in diagnosis and patient care: human judgement, liability and role boundaries",100,Human oversight and professional accountability,High
+RT11,"AI-integrated auditing: external controls, verification and accountability",17,Human oversight and professional accountability,High
+RT13,"Black-box AI in engineering: traceability, trust and professional responsibility",16,Human oversight and professional accountability,High
+RT04,"Authorship, AI detection and institutional governance",57,"Authorship, detection and institutional governance",Medium
+RT09,"Clinical documentation and patient data: productivity, review and HIPAA safeguards",34,"Privacy, confidentiality and regulatory safeguards",High
+RT12,"Privacy, proprietary data and ethical accountability in professional AI use",16,"Privacy, confidentiality and regulatory safeguards",High
+RT10,"AI therapy and emotional support: relational, ethical and task-specific limits",26,Relational and human-judgement boundaries,High

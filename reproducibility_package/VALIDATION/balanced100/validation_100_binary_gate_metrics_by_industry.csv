@@ -1,0 +1,9 @@
+industry,gate,n,gold_positive_count,gold_negative_count,predicted_positive_count,predicted_negative_count,true_positive,true_negative,false_positive,false_negative,positive_class_prevalence,predicted_positive_rate,accuracy,precision,recall,specificity,balanced_accuracy,negative_predictive_value,f1,matthews_correlation_coefficient,always_positive_accuracy,always_positive_f1,always_positive_specificity,always_positive_balanced_accuracy,always_positive_mcc,always_negative_accuracy,always_negative_f1,always_negative_specificity,always_negative_balanced_accuracy,always_negative_mcc
+finance,substantive_trust_content,25,20,5,25,0,20,0,5,0,0.8,1.0,0.8,0.8,1.0,0.0,0.5,0.0,0.8889,0.0,0.8,0.8889,0.0,0.5,0.0,0.2,0.0,1.0,0.5,0.0
+finance,explicit_trust_boundary,25,18,7,16,9,15,6,1,3,0.72,0.64,0.84,0.9375,0.8333,0.8571,0.8452,0.6667,0.8824,0.6459,0.72,0.8372,0.0,0.5,0.0,0.28,0.0,1.0,0.5,0.0
+healthcare,substantive_trust_content,25,19,6,19,6,17,4,2,2,0.76,0.76,0.84,0.8947,0.8947,0.6667,0.7807,0.6667,0.8947,0.5614,0.76,0.8636,0.0,0.5,0.0,0.24,0.0,1.0,0.5,0.0
+healthcare,explicit_trust_boundary,25,17,8,16,9,14,6,2,3,0.68,0.64,0.8,0.875,0.8235,0.75,0.7868,0.6667,0.8485,0.5574,0.68,0.8095,0.0,0.5,0.0,0.32,0.0,1.0,0.5,0.0
+law,substantive_trust_content,25,18,7,25,0,18,0,7,0,0.72,1.0,0.72,0.72,1.0,0.0,0.5,0.0,0.8372,0.0,0.72,0.8372,0.0,0.5,0.0,0.28,0.0,1.0,0.5,0.0
+law,explicit_trust_boundary,25,20,5,22,3,19,2,3,1,0.8,0.88,0.84,0.8636,0.95,0.4,0.675,0.6667,0.9048,0.4308,0.8,0.8889,0.0,0.5,0.0,0.2,0.0,1.0,0.5,0.0
+software_engineering,substantive_trust_content,25,16,9,25,0,16,0,9,0,0.64,1.0,0.64,0.64,1.0,0.0,0.5,0.0,0.7805,0.0,0.64,0.7805,0.0,0.5,0.0,0.36,0.0,1.0,0.5,0.0
+software_engineering,explicit_trust_boundary,25,18,7,15,10,12,4,3,6,0.72,0.6,0.64,0.8,0.6667,0.5714,0.619,0.4,0.7273,0.2182,0.72,0.8372,0.0,0.5,0.0,0.28,0.0,1.0,0.5,0.0

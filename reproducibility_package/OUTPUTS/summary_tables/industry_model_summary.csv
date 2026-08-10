@@ -1,0 +1,5 @@
+industry,modelled_comments,outlier_comments,reporting_comments,reporting_topics,outlier_rate
+finance,3199,1012,2187,8,0.3163488590184433
+healthcare,8283,2988,4958,14,0.3607388627308946
+law,5876,1708,4076,17,0.2906739278420694
+software_engineering,18813,7220,10833,40,0.3837771753574656

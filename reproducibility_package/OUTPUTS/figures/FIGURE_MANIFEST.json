@@ -1,0 +1,19 @@
+{
+  "created": "2026-08-04",
+  "uk_split_used": false,
+  "models_refitted": false,
+  "industry_workbooks": {
+    "finance": "MAPPINGS/manual_interpretation_workbooks/finance_topic_manual_interpretation.xlsx",
+    "healthcare": "MAPPINGS/manual_interpretation_workbooks/healthcare_topic_manual_interpretation.xlsx",
+    "law": "MAPPINGS/manual_interpretation_workbooks/law_topic_manual_interpretation.xlsx",
+    "software_engineering": "MAPPINGS/manual_interpretation_workbooks/software_engineering_topic_manual_interpretation.xlsx"
+  },
+  "pooled_model_folder": "outputs/cross_industry_pooled_bertopic_FINAL_2026-07-27",
+  "figures": [
+    "bertopics_across_industry/fig1_pooled_topic_prevalence.png",
+    "bertopics_across_industry/fig2_pooled_topic_industry_composition_100pct.png",
+    "bertopics_across_industry/fig3_pooled_topic_industry_enrichment.png",
+    "bertopics_by_industry/fig1_largest_verified_topics_by_industry.png"
+  ],
+  "note": "All figures use locked all-comment topic models; no UK/non-UK split is present."
+}

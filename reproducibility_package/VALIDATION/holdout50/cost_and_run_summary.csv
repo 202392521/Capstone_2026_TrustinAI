@@ -1,0 +1,7 @@
+metric,value
+rows,50.0
+api_failures,0.0
+invalid_json,0.0
+invalid_json_rate,0.0
+total_input_tokens,164172.0
+total_output_tokens,72666.0

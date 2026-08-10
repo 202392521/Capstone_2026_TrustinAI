@@ -1,0 +1,2 @@
+input_rows,modelled_documents,excluded_short_or_blank_documents,substantive_topics_excluding_unassigned,unassigned_count,unassigned_rate,industry_counts
+861,858,3,22,212,0.247086,"{'finance': 190, 'healthcare': 240, 'law': 241, 'software_engineering': 187}"

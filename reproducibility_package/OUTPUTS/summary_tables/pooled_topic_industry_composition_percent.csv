@@ -1,0 +1,73 @@
+pooled_topic,industry,percent_within_topic,final_label,cross_industry_status
+0,finance,5.3706383662968324,"Broad AI in professional work: automation, capability, oversight and adaptation",shared_broad_partly_noisy
+1,finance,0.5816894284269095,"Healthcare AI: patient care, diagnosis and clinical accountability",industry_specific
+2,finance,10.623145400593472,"AI-assisted learning, assessment, exams and cheating",shared_mixed
+3,finance,2.6843100189035916,"How AI works: training data, reasoning, memory and model limits",shared_software_concentrated
+4,finance,1.9195612431444242,"Legal AI: paralegal work, litigation and legal practice",industry_specific
+5,finance,0.07331378299120235,"AI therapy, empathy and relational care",industry_specific
+6,finance,96.32183908045977,"AI in tax, bookkeeping and accounting automation",industry_specific
+7,finance,7.551766138855055,"Chatbots, AI definitions and general machine-learning debates",shared_mixed
+8,finance,8.260325406758447,GitHub Copilot and AI-assisted coding workflows,software_concentrated
+9,finance,0.24509803921568626,"Healthcare AI privacy, HIPAA compliance and patient data",industry_specific
+10,finance,4.705882352941177,"Model-version capability debates: GPT-4, GPT-5 and technical progress",software_concentrated
+11,finance,10.884353741496598,"Contracts, proprietary information and workplace AI policy",shared_mixed
+12,finance,0.0,"Vibe coding, developer identity and codebase maintainability",industry_specific
+13,finance,2.643171806167401,"AI in hiring, interviews and candidate assessment",shared_mixed
+14,finance,95.83333333333334,"AI-enabled audit, assurance and human verification",industry_specific
+15,finance,2.3255813953488373,Claude Code and agentic developer tools,software_concentrated
+16,finance,9.210526315789473,"Management AI hype, CEOs and organisational pressure",shared_software_concentrated
+17,finance,12.0,"Gemini and AI tool access, comparison and adoption",shared_mixed
+0,healthcare,9.792571152918475,"Broad AI in professional work: automation, capability, oversight and adaptation",shared_broad_partly_noisy
+1,healthcare,94.05665149215984,"Healthcare AI: patient care, diagnosis and clinical accountability",industry_specific
+2,healthcare,14.569732937685458,"AI-assisted learning, assessment, exams and cheating",shared_mixed
+3,healthcare,3.856332703213611,"How AI works: training data, reasoning, memory and model limits",shared_software_concentrated
+4,healthcare,2.056672760511883,"Legal AI: paralegal work, litigation and legal practice",industry_specific
+5,healthcare,96.8475073313783,"AI therapy, empathy and relational care",industry_specific
+6,healthcare,0.5747126436781609,"AI in tax, bookkeeping and accounting automation",industry_specific
+7,healthcare,15.225334957369064,"Chatbots, AI definitions and general machine-learning debates",shared_mixed
+8,healthcare,1.1264080100125156,GitHub Copilot and AI-assisted coding workflows,software_concentrated
+9,healthcare,95.58823529411765,"Healthcare AI privacy, HIPAA compliance and patient data",industry_specific
+10,healthcare,11.470588235294118,"Model-version capability debates: GPT-4, GPT-5 and technical progress",software_concentrated
+11,healthcare,17.687074829931973,"Contracts, proprietary information and workplace AI policy",shared_mixed
+12,healthcare,0.4132231404958678,"Vibe coding, developer identity and codebase maintainability",industry_specific
+13,healthcare,7.929515418502203,"AI in hiring, interviews and candidate assessment",shared_mixed
+14,healthcare,0.0,"AI-enabled audit, assurance and human verification",industry_specific
+15,healthcare,1.8604651162790697,Claude Code and agentic developer tools,software_concentrated
+16,healthcare,10.526315789473683,"Management AI hype, CEOs and organisational pressure",shared_software_concentrated
+17,healthcare,5.333333333333334,"Gemini and AI tool access, comparison and adoption",shared_mixed
+0,law,12.493970091654607,"Broad AI in professional work: automation, capability, oversight and adaptation",shared_broad_partly_noisy
+1,law,2.503793626707132,"Healthcare AI: patient care, diagnosis and clinical accountability",industry_specific
+2,law,17.98219584569733,"AI-assisted learning, assessment, exams and cheating",shared_mixed
+3,law,8.39319470699433,"How AI works: training data, reasoning, memory and model limits",shared_software_concentrated
+4,law,94.37842778793419,"Legal AI: paralegal work, litigation and legal practice",industry_specific
+5,law,1.7595307917888565,"AI therapy, empathy and relational care",industry_specific
+6,law,1.0344827586206897,"AI in tax, bookkeeping and accounting automation",industry_specific
+7,law,10.23142509135201,"Chatbots, AI definitions and general machine-learning debates",shared_mixed
+8,law,1.6270337922403004,GitHub Copilot and AI-assisted coding workflows,software_concentrated
+9,law,2.941176470588235,"Healthcare AI privacy, HIPAA compliance and patient data",industry_specific
+10,law,8.235294117647058,"Model-version capability debates: GPT-4, GPT-5 and technical progress",software_concentrated
+11,law,47.61904761904761,"Contracts, proprietary information and workplace AI policy",shared_mixed
+12,law,0.4132231404958678,"Vibe coding, developer identity and codebase maintainability",industry_specific
+13,law,11.013215859030836,"AI in hiring, interviews and candidate assessment",shared_mixed
+14,law,1.8518518518518516,"AI-enabled audit, assurance and human verification",industry_specific
+15,law,4.651162790697675,Claude Code and agentic developer tools,software_concentrated
+16,law,1.3157894736842104,"Management AI hype, CEOs and organisational pressure",shared_software_concentrated
+17,law,14.666666666666666,"Gemini and AI tool access, comparison and adoption",shared_mixed
+0,software_engineering,72.34282038913008,"Broad AI in professional work: automation, capability, oversight and adaptation",shared_broad_partly_noisy
+1,software_engineering,2.85786545270612,"Healthcare AI: patient care, diagnosis and clinical accountability",industry_specific
+2,software_engineering,56.82492581602374,"AI-assisted learning, assessment, exams and cheating",shared_mixed
+3,software_engineering,85.06616257088847,"How AI works: training data, reasoning, memory and model limits",shared_software_concentrated
+4,software_engineering,1.6453382084095063,"Legal AI: paralegal work, litigation and legal practice",industry_specific
+5,software_engineering,1.3196480938416422,"AI therapy, empathy and relational care",industry_specific
+6,software_engineering,2.0689655172413794,"AI in tax, bookkeeping and accounting automation",industry_specific
+7,software_engineering,66.99147381242388,"Chatbots, AI definitions and general machine-learning debates",shared_mixed
+8,software_engineering,88.98623279098874,GitHub Copilot and AI-assisted coding workflows,software_concentrated
+9,software_engineering,1.2254901960784315,"Healthcare AI privacy, HIPAA compliance and patient data",industry_specific
+10,software_engineering,75.58823529411765,"Model-version capability debates: GPT-4, GPT-5 and technical progress",software_concentrated
+11,software_engineering,23.809523809523807,"Contracts, proprietary information and workplace AI policy",shared_mixed
+12,software_engineering,99.17355371900827,"Vibe coding, developer identity and codebase maintainability",industry_specific
+13,software_engineering,78.41409691629956,"AI in hiring, interviews and candidate assessment",shared_mixed
+14,software_engineering,2.314814814814815,"AI-enabled audit, assurance and human verification",industry_specific
+15,software_engineering,91.16279069767442,Claude Code and agentic developer tools,software_concentrated
+16,software_engineering,78.94736842105263,"Management AI hype, CEOs and organisational pressure",shared_software_concentrated
+17,software_engineering,68.0,"Gemini and AI tool access, comparison and adoption",shared_mixed

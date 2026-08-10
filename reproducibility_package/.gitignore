@@ -1,0 +1,15 @@
+# Non-distributable inputs and regenerated artifacts
+data/
+raw_data/
+derived_data/
+models/
+embeddings/
+*.npy
+*.joblib
+*.pkl
+*.jsonl
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.DS_Store

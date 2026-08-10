@@ -1,0 +1,949 @@
+field,field_display,model,human_label,predicted_label,n
+attitude,Attitude,GPT-5 mini,positive,positive,15
+attitude,Attitude,GPT-5 mini,positive,negative,0
+attitude,Attitude,GPT-5 mini,positive,mixed_or_ambivalent,6
+attitude,Attitude,GPT-5 mini,positive,neutral_descriptive,1
+attitude,Attitude,GPT-5 mini,positive,unclear,0
+attitude,Attitude,GPT-5 mini,negative,positive,0
+attitude,Attitude,GPT-5 mini,negative,negative,33
+attitude,Attitude,GPT-5 mini,negative,mixed_or_ambivalent,4
+attitude,Attitude,GPT-5 mini,negative,neutral_descriptive,1
+attitude,Attitude,GPT-5 mini,negative,unclear,0
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,positive,6
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,negative,3
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,mixed_or_ambivalent,16
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,neutral_descriptive,1
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,unclear,0
+attitude,Attitude,GPT-5 mini,neutral_descriptive,positive,2
+attitude,Attitude,GPT-5 mini,neutral_descriptive,negative,7
+attitude,Attitude,GPT-5 mini,neutral_descriptive,mixed_or_ambivalent,1
+attitude,Attitude,GPT-5 mini,neutral_descriptive,neutral_descriptive,3
+attitude,Attitude,GPT-5 mini,neutral_descriptive,unclear,0
+attitude,Attitude,GPT-5 mini,unclear,positive,0
+attitude,Attitude,GPT-5 mini,unclear,negative,0
+attitude,Attitude,GPT-5 mini,unclear,mixed_or_ambivalent,0
+attitude,Attitude,GPT-5 mini,unclear,neutral_descriptive,1
+attitude,Attitude,GPT-5 mini,unclear,unclear,0
+attitude,Attitude,GPT-5.6,positive,positive,16
+attitude,Attitude,GPT-5.6,positive,negative,1
+attitude,Attitude,GPT-5.6,positive,mixed_or_ambivalent,3
+attitude,Attitude,GPT-5.6,positive,neutral_descriptive,2
+attitude,Attitude,GPT-5.6,positive,unclear,0
+attitude,Attitude,GPT-5.6,negative,positive,0
+attitude,Attitude,GPT-5.6,negative,negative,35
+attitude,Attitude,GPT-5.6,negative,mixed_or_ambivalent,2
+attitude,Attitude,GPT-5.6,negative,neutral_descriptive,1
+attitude,Attitude,GPT-5.6,negative,unclear,0
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,positive,6
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,negative,3
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,mixed_or_ambivalent,17
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,neutral_descriptive,0
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,unclear,0
+attitude,Attitude,GPT-5.6,neutral_descriptive,positive,3
+attitude,Attitude,GPT-5.6,neutral_descriptive,negative,5
+attitude,Attitude,GPT-5.6,neutral_descriptive,mixed_or_ambivalent,1
+attitude,Attitude,GPT-5.6,neutral_descriptive,neutral_descriptive,3
+attitude,Attitude,GPT-5.6,neutral_descriptive,unclear,1
+attitude,Attitude,GPT-5.6,unclear,positive,0
+attitude,Attitude,GPT-5.6,unclear,negative,0
+attitude,Attitude,GPT-5.6,unclear,mixed_or_ambivalent,0
+attitude,Attitude,GPT-5.6,unclear,neutral_descriptive,1
+attitude,Attitude,GPT-5.6,unclear,unclear,0
+attitude,Attitude,GPT-5.1,positive,positive,16
+attitude,Attitude,GPT-5.1,positive,negative,0
+attitude,Attitude,GPT-5.1,positive,mixed_or_ambivalent,5
+attitude,Attitude,GPT-5.1,positive,neutral_descriptive,1
+attitude,Attitude,GPT-5.1,positive,unclear,0
+attitude,Attitude,GPT-5.1,negative,positive,0
+attitude,Attitude,GPT-5.1,negative,negative,28
+attitude,Attitude,GPT-5.1,negative,mixed_or_ambivalent,6
+attitude,Attitude,GPT-5.1,negative,neutral_descriptive,3
+attitude,Attitude,GPT-5.1,negative,unclear,1
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,positive,6
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,negative,3
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,mixed_or_ambivalent,16
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,neutral_descriptive,1
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,unclear,0
+attitude,Attitude,GPT-5.1,neutral_descriptive,positive,2
+attitude,Attitude,GPT-5.1,neutral_descriptive,negative,4
+attitude,Attitude,GPT-5.1,neutral_descriptive,mixed_or_ambivalent,4
+attitude,Attitude,GPT-5.1,neutral_descriptive,neutral_descriptive,3
+attitude,Attitude,GPT-5.1,neutral_descriptive,unclear,0
+attitude,Attitude,GPT-5.1,unclear,positive,0
+attitude,Attitude,GPT-5.1,unclear,negative,0
+attitude,Attitude,GPT-5.1,unclear,mixed_or_ambivalent,0
+attitude,Attitude,GPT-5.1,unclear,neutral_descriptive,0
+attitude,Attitude,GPT-5.1,unclear,unclear,1
+attitude_target,Attitude target,GPT-5 mini,AI_capability_or_performance,AI_capability_or_performance,13
+attitude_target,Attitude target,GPT-5 mini,AI_capability_or_performance,professional_or_employment_consequences,7
+attitude_target,Attitude target,GPT-5 mini,AI_capability_or_performance,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5 mini,AI_capability_or_performance,specific_use_case,22
+attitude_target,Attitude target,GPT-5 mini,AI_capability_or_performance,company_or_deployment_practice,4
+attitude_target,Attitude target,GPT-5 mini,AI_capability_or_performance,general_AI,1
+attitude_target,Attitude target,GPT-5 mini,AI_capability_or_performance,unclear,0
+attitude_target,Attitude target,GPT-5 mini,professional_or_employment_consequences,AI_capability_or_performance,3
+attitude_target,Attitude target,GPT-5 mini,professional_or_employment_consequences,professional_or_employment_consequences,13
+attitude_target,Attitude target,GPT-5 mini,professional_or_employment_consequences,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5 mini,professional_or_employment_consequences,specific_use_case,5
+attitude_target,Attitude target,GPT-5 mini,professional_or_employment_consequences,company_or_deployment_practice,2
+attitude_target,Attitude target,GPT-5 mini,professional_or_employment_consequences,general_AI,0
+attitude_target,Attitude target,GPT-5 mini,professional_or_employment_consequences,unclear,0
+attitude_target,Attitude target,GPT-5 mini,ethical_or_social_consequences,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5 mini,ethical_or_social_consequences,professional_or_employment_consequences,1
+attitude_target,Attitude target,GPT-5 mini,ethical_or_social_consequences,ethical_or_social_consequences,6
+attitude_target,Attitude target,GPT-5 mini,ethical_or_social_consequences,specific_use_case,3
+attitude_target,Attitude target,GPT-5 mini,ethical_or_social_consequences,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5 mini,ethical_or_social_consequences,general_AI,0
+attitude_target,Attitude target,GPT-5 mini,ethical_or_social_consequences,unclear,0
+attitude_target,Attitude target,GPT-5 mini,specific_use_case,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5 mini,specific_use_case,professional_or_employment_consequences,1
+attitude_target,Attitude target,GPT-5 mini,specific_use_case,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5 mini,specific_use_case,specific_use_case,10
+attitude_target,Attitude target,GPT-5 mini,specific_use_case,company_or_deployment_practice,1
+attitude_target,Attitude target,GPT-5 mini,specific_use_case,general_AI,0
+attitude_target,Attitude target,GPT-5 mini,specific_use_case,unclear,0
+attitude_target,Attitude target,GPT-5 mini,company_or_deployment_practice,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5 mini,company_or_deployment_practice,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5 mini,company_or_deployment_practice,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5 mini,company_or_deployment_practice,specific_use_case,1
+attitude_target,Attitude target,GPT-5 mini,company_or_deployment_practice,company_or_deployment_practice,2
+attitude_target,Attitude target,GPT-5 mini,company_or_deployment_practice,general_AI,0
+attitude_target,Attitude target,GPT-5 mini,company_or_deployment_practice,unclear,0
+attitude_target,Attitude target,GPT-5 mini,general_AI,AI_capability_or_performance,1
+attitude_target,Attitude target,GPT-5 mini,general_AI,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5 mini,general_AI,ethical_or_social_consequences,2
+attitude_target,Attitude target,GPT-5 mini,general_AI,specific_use_case,0
+attitude_target,Attitude target,GPT-5 mini,general_AI,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5 mini,general_AI,general_AI,0
+attitude_target,Attitude target,GPT-5 mini,general_AI,unclear,0
+attitude_target,Attitude target,GPT-5 mini,unclear,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5 mini,unclear,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5 mini,unclear,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5 mini,unclear,specific_use_case,1
+attitude_target,Attitude target,GPT-5 mini,unclear,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5 mini,unclear,general_AI,1
+attitude_target,Attitude target,GPT-5 mini,unclear,unclear,0
+attitude_target,Attitude target,GPT-5.6,AI_capability_or_performance,AI_capability_or_performance,14
+attitude_target,Attitude target,GPT-5.6,AI_capability_or_performance,professional_or_employment_consequences,4
+attitude_target,Attitude target,GPT-5.6,AI_capability_or_performance,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5.6,AI_capability_or_performance,specific_use_case,24
+attitude_target,Attitude target,GPT-5.6,AI_capability_or_performance,company_or_deployment_practice,5
+attitude_target,Attitude target,GPT-5.6,AI_capability_or_performance,general_AI,0
+attitude_target,Attitude target,GPT-5.6,AI_capability_or_performance,unclear,0
+attitude_target,Attitude target,GPT-5.6,professional_or_employment_consequences,AI_capability_or_performance,4
+attitude_target,Attitude target,GPT-5.6,professional_or_employment_consequences,professional_or_employment_consequences,15
+attitude_target,Attitude target,GPT-5.6,professional_or_employment_consequences,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5.6,professional_or_employment_consequences,specific_use_case,4
+attitude_target,Attitude target,GPT-5.6,professional_or_employment_consequences,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.6,professional_or_employment_consequences,general_AI,0
+attitude_target,Attitude target,GPT-5.6,professional_or_employment_consequences,unclear,0
+attitude_target,Attitude target,GPT-5.6,ethical_or_social_consequences,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5.6,ethical_or_social_consequences,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5.6,ethical_or_social_consequences,ethical_or_social_consequences,5
+attitude_target,Attitude target,GPT-5.6,ethical_or_social_consequences,specific_use_case,5
+attitude_target,Attitude target,GPT-5.6,ethical_or_social_consequences,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.6,ethical_or_social_consequences,general_AI,0
+attitude_target,Attitude target,GPT-5.6,ethical_or_social_consequences,unclear,0
+attitude_target,Attitude target,GPT-5.6,specific_use_case,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5.6,specific_use_case,professional_or_employment_consequences,1
+attitude_target,Attitude target,GPT-5.6,specific_use_case,ethical_or_social_consequences,1
+attitude_target,Attitude target,GPT-5.6,specific_use_case,specific_use_case,10
+attitude_target,Attitude target,GPT-5.6,specific_use_case,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.6,specific_use_case,general_AI,0
+attitude_target,Attitude target,GPT-5.6,specific_use_case,unclear,0
+attitude_target,Attitude target,GPT-5.6,company_or_deployment_practice,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5.6,company_or_deployment_practice,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5.6,company_or_deployment_practice,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5.6,company_or_deployment_practice,specific_use_case,2
+attitude_target,Attitude target,GPT-5.6,company_or_deployment_practice,company_or_deployment_practice,1
+attitude_target,Attitude target,GPT-5.6,company_or_deployment_practice,general_AI,0
+attitude_target,Attitude target,GPT-5.6,company_or_deployment_practice,unclear,0
+attitude_target,Attitude target,GPT-5.6,general_AI,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5.6,general_AI,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5.6,general_AI,ethical_or_social_consequences,1
+attitude_target,Attitude target,GPT-5.6,general_AI,specific_use_case,1
+attitude_target,Attitude target,GPT-5.6,general_AI,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.6,general_AI,general_AI,1
+attitude_target,Attitude target,GPT-5.6,general_AI,unclear,0
+attitude_target,Attitude target,GPT-5.6,unclear,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5.6,unclear,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5.6,unclear,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5.6,unclear,specific_use_case,1
+attitude_target,Attitude target,GPT-5.6,unclear,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.6,unclear,general_AI,1
+attitude_target,Attitude target,GPT-5.6,unclear,unclear,0
+attitude_target,Attitude target,GPT-5.1,AI_capability_or_performance,AI_capability_or_performance,26
+attitude_target,Attitude target,GPT-5.1,AI_capability_or_performance,professional_or_employment_consequences,3
+attitude_target,Attitude target,GPT-5.1,AI_capability_or_performance,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5.1,AI_capability_or_performance,specific_use_case,12
+attitude_target,Attitude target,GPT-5.1,AI_capability_or_performance,company_or_deployment_practice,3
+attitude_target,Attitude target,GPT-5.1,AI_capability_or_performance,general_AI,3
+attitude_target,Attitude target,GPT-5.1,AI_capability_or_performance,unclear,0
+attitude_target,Attitude target,GPT-5.1,professional_or_employment_consequences,AI_capability_or_performance,3
+attitude_target,Attitude target,GPT-5.1,professional_or_employment_consequences,professional_or_employment_consequences,15
+attitude_target,Attitude target,GPT-5.1,professional_or_employment_consequences,ethical_or_social_consequences,1
+attitude_target,Attitude target,GPT-5.1,professional_or_employment_consequences,specific_use_case,4
+attitude_target,Attitude target,GPT-5.1,professional_or_employment_consequences,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.1,professional_or_employment_consequences,general_AI,0
+attitude_target,Attitude target,GPT-5.1,professional_or_employment_consequences,unclear,0
+attitude_target,Attitude target,GPT-5.1,ethical_or_social_consequences,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5.1,ethical_or_social_consequences,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5.1,ethical_or_social_consequences,ethical_or_social_consequences,4
+attitude_target,Attitude target,GPT-5.1,ethical_or_social_consequences,specific_use_case,3
+attitude_target,Attitude target,GPT-5.1,ethical_or_social_consequences,company_or_deployment_practice,1
+attitude_target,Attitude target,GPT-5.1,ethical_or_social_consequences,general_AI,2
+attitude_target,Attitude target,GPT-5.1,ethical_or_social_consequences,unclear,0
+attitude_target,Attitude target,GPT-5.1,specific_use_case,AI_capability_or_performance,3
+attitude_target,Attitude target,GPT-5.1,specific_use_case,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5.1,specific_use_case,ethical_or_social_consequences,1
+attitude_target,Attitude target,GPT-5.1,specific_use_case,specific_use_case,7
+attitude_target,Attitude target,GPT-5.1,specific_use_case,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.1,specific_use_case,general_AI,1
+attitude_target,Attitude target,GPT-5.1,specific_use_case,unclear,0
+attitude_target,Attitude target,GPT-5.1,company_or_deployment_practice,AI_capability_or_performance,2
+attitude_target,Attitude target,GPT-5.1,company_or_deployment_practice,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5.1,company_or_deployment_practice,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5.1,company_or_deployment_practice,specific_use_case,1
+attitude_target,Attitude target,GPT-5.1,company_or_deployment_practice,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.1,company_or_deployment_practice,general_AI,0
+attitude_target,Attitude target,GPT-5.1,company_or_deployment_practice,unclear,0
+attitude_target,Attitude target,GPT-5.1,general_AI,AI_capability_or_performance,1
+attitude_target,Attitude target,GPT-5.1,general_AI,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5.1,general_AI,ethical_or_social_consequences,1
+attitude_target,Attitude target,GPT-5.1,general_AI,specific_use_case,0
+attitude_target,Attitude target,GPT-5.1,general_AI,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.1,general_AI,general_AI,1
+attitude_target,Attitude target,GPT-5.1,general_AI,unclear,0
+attitude_target,Attitude target,GPT-5.1,unclear,AI_capability_or_performance,0
+attitude_target,Attitude target,GPT-5.1,unclear,professional_or_employment_consequences,0
+attitude_target,Attitude target,GPT-5.1,unclear,ethical_or_social_consequences,0
+attitude_target,Attitude target,GPT-5.1,unclear,specific_use_case,0
+attitude_target,Attitude target,GPT-5.1,unclear,company_or_deployment_practice,0
+attitude_target,Attitude target,GPT-5.1,unclear,general_AI,0
+attitude_target,Attitude target,GPT-5.1,unclear,unclear,2
+use,AI use,GPT-5 mini,job_replacement_or_automation,job_replacement_or_automation,21
+use,AI use,GPT-5 mini,job_replacement_or_automation,practical_work_use,1
+use,AI use,GPT-5 mini,job_replacement_or_automation,productivity_or_efficiency,0
+use,AI use,GPT-5 mini,job_replacement_or_automation,learning_or_training,0
+use,AI use,GPT-5 mini,job_replacement_or_automation,content_generation,0
+use,AI use,GPT-5 mini,job_replacement_or_automation,research_or_information_search,0
+use,AI use,GPT-5 mini,job_replacement_or_automation,client_or_public_facing_advice,1
+use,AI use,GPT-5 mini,job_replacement_or_automation,no_specific_use_discussed,2
+use,AI use,GPT-5 mini,job_replacement_or_automation,other,0
+use,AI use,GPT-5 mini,job_replacement_or_automation,unclear,0
+use,AI use,GPT-5 mini,practical_work_use,job_replacement_or_automation,3
+use,AI use,GPT-5 mini,practical_work_use,practical_work_use,24
+use,AI use,GPT-5 mini,practical_work_use,productivity_or_efficiency,2
+use,AI use,GPT-5 mini,practical_work_use,learning_or_training,3
+use,AI use,GPT-5 mini,practical_work_use,content_generation,3
+use,AI use,GPT-5 mini,practical_work_use,research_or_information_search,0
+use,AI use,GPT-5 mini,practical_work_use,client_or_public_facing_advice,0
+use,AI use,GPT-5 mini,practical_work_use,no_specific_use_discussed,0
+use,AI use,GPT-5 mini,practical_work_use,other,0
+use,AI use,GPT-5 mini,practical_work_use,unclear,0
+use,AI use,GPT-5 mini,productivity_or_efficiency,job_replacement_or_automation,0
+use,AI use,GPT-5 mini,productivity_or_efficiency,practical_work_use,2
+use,AI use,GPT-5 mini,productivity_or_efficiency,productivity_or_efficiency,2
+use,AI use,GPT-5 mini,productivity_or_efficiency,learning_or_training,0
+use,AI use,GPT-5 mini,productivity_or_efficiency,content_generation,0
+use,AI use,GPT-5 mini,productivity_or_efficiency,research_or_information_search,1
+use,AI use,GPT-5 mini,productivity_or_efficiency,client_or_public_facing_advice,0
+use,AI use,GPT-5 mini,productivity_or_efficiency,no_specific_use_discussed,0
+use,AI use,GPT-5 mini,productivity_or_efficiency,other,0
+use,AI use,GPT-5 mini,productivity_or_efficiency,unclear,0
+use,AI use,GPT-5 mini,learning_or_training,job_replacement_or_automation,0
+use,AI use,GPT-5 mini,learning_or_training,practical_work_use,0
+use,AI use,GPT-5 mini,learning_or_training,productivity_or_efficiency,0
+use,AI use,GPT-5 mini,learning_or_training,learning_or_training,3
+use,AI use,GPT-5 mini,learning_or_training,content_generation,1
+use,AI use,GPT-5 mini,learning_or_training,research_or_information_search,0
+use,AI use,GPT-5 mini,learning_or_training,client_or_public_facing_advice,0
+use,AI use,GPT-5 mini,learning_or_training,no_specific_use_discussed,0
+use,AI use,GPT-5 mini,learning_or_training,other,0
+use,AI use,GPT-5 mini,learning_or_training,unclear,0
+use,AI use,GPT-5 mini,content_generation,job_replacement_or_automation,0
+use,AI use,GPT-5 mini,content_generation,practical_work_use,3
+use,AI use,GPT-5 mini,content_generation,productivity_or_efficiency,0
+use,AI use,GPT-5 mini,content_generation,learning_or_training,0
+use,AI use,GPT-5 mini,content_generation,content_generation,4
+use,AI use,GPT-5 mini,content_generation,research_or_information_search,0
+use,AI use,GPT-5 mini,content_generation,client_or_public_facing_advice,0
+use,AI use,GPT-5 mini,content_generation,no_specific_use_discussed,1
+use,AI use,GPT-5 mini,content_generation,other,0
+use,AI use,GPT-5 mini,content_generation,unclear,0
+use,AI use,GPT-5 mini,research_or_information_search,job_replacement_or_automation,0
+use,AI use,GPT-5 mini,research_or_information_search,practical_work_use,2
+use,AI use,GPT-5 mini,research_or_information_search,productivity_or_efficiency,0
+use,AI use,GPT-5 mini,research_or_information_search,learning_or_training,2
+use,AI use,GPT-5 mini,research_or_information_search,content_generation,1
+use,AI use,GPT-5 mini,research_or_information_search,research_or_information_search,5
+use,AI use,GPT-5 mini,research_or_information_search,client_or_public_facing_advice,0
+use,AI use,GPT-5 mini,research_or_information_search,no_specific_use_discussed,0
+use,AI use,GPT-5 mini,research_or_information_search,other,0
+use,AI use,GPT-5 mini,research_or_information_search,unclear,0
+use,AI use,GPT-5 mini,client_or_public_facing_advice,job_replacement_or_automation,0
+use,AI use,GPT-5 mini,client_or_public_facing_advice,practical_work_use,1
+use,AI use,GPT-5 mini,client_or_public_facing_advice,productivity_or_efficiency,0
+use,AI use,GPT-5 mini,client_or_public_facing_advice,learning_or_training,0
+use,AI use,GPT-5 mini,client_or_public_facing_advice,content_generation,1
+use,AI use,GPT-5 mini,client_or_public_facing_advice,research_or_information_search,0
+use,AI use,GPT-5 mini,client_or_public_facing_advice,client_or_public_facing_advice,1
+use,AI use,GPT-5 mini,client_or_public_facing_advice,no_specific_use_discussed,0
+use,AI use,GPT-5 mini,client_or_public_facing_advice,other,1
+use,AI use,GPT-5 mini,client_or_public_facing_advice,unclear,0
+use,AI use,GPT-5 mini,no_specific_use_discussed,job_replacement_or_automation,0
+use,AI use,GPT-5 mini,no_specific_use_discussed,practical_work_use,3
+use,AI use,GPT-5 mini,no_specific_use_discussed,productivity_or_efficiency,0
+use,AI use,GPT-5 mini,no_specific_use_discussed,learning_or_training,0
+use,AI use,GPT-5 mini,no_specific_use_discussed,content_generation,0
+use,AI use,GPT-5 mini,no_specific_use_discussed,research_or_information_search,1
+use,AI use,GPT-5 mini,no_specific_use_discussed,client_or_public_facing_advice,0
+use,AI use,GPT-5 mini,no_specific_use_discussed,no_specific_use_discussed,2
+use,AI use,GPT-5 mini,no_specific_use_discussed,other,0
+use,AI use,GPT-5 mini,no_specific_use_discussed,unclear,0
+use,AI use,GPT-5 mini,other,job_replacement_or_automation,0
+use,AI use,GPT-5 mini,other,practical_work_use,0
+use,AI use,GPT-5 mini,other,productivity_or_efficiency,0
+use,AI use,GPT-5 mini,other,learning_or_training,0
+use,AI use,GPT-5 mini,other,content_generation,0
+use,AI use,GPT-5 mini,other,research_or_information_search,0
+use,AI use,GPT-5 mini,other,client_or_public_facing_advice,0
+use,AI use,GPT-5 mini,other,no_specific_use_discussed,1
+use,AI use,GPT-5 mini,other,other,1
+use,AI use,GPT-5 mini,other,unclear,0
+use,AI use,GPT-5 mini,unclear,job_replacement_or_automation,0
+use,AI use,GPT-5 mini,unclear,practical_work_use,0
+use,AI use,GPT-5 mini,unclear,productivity_or_efficiency,0
+use,AI use,GPT-5 mini,unclear,learning_or_training,0
+use,AI use,GPT-5 mini,unclear,content_generation,0
+use,AI use,GPT-5 mini,unclear,research_or_information_search,0
+use,AI use,GPT-5 mini,unclear,client_or_public_facing_advice,0
+use,AI use,GPT-5 mini,unclear,no_specific_use_discussed,1
+use,AI use,GPT-5 mini,unclear,other,0
+use,AI use,GPT-5 mini,unclear,unclear,0
+use,AI use,GPT-5.6,job_replacement_or_automation,job_replacement_or_automation,20
+use,AI use,GPT-5.6,job_replacement_or_automation,practical_work_use,0
+use,AI use,GPT-5.6,job_replacement_or_automation,productivity_or_efficiency,0
+use,AI use,GPT-5.6,job_replacement_or_automation,learning_or_training,0
+use,AI use,GPT-5.6,job_replacement_or_automation,content_generation,0
+use,AI use,GPT-5.6,job_replacement_or_automation,research_or_information_search,0
+use,AI use,GPT-5.6,job_replacement_or_automation,client_or_public_facing_advice,3
+use,AI use,GPT-5.6,job_replacement_or_automation,no_specific_use_discussed,2
+use,AI use,GPT-5.6,job_replacement_or_automation,other,0
+use,AI use,GPT-5.6,job_replacement_or_automation,unclear,0
+use,AI use,GPT-5.6,practical_work_use,job_replacement_or_automation,4
+use,AI use,GPT-5.6,practical_work_use,practical_work_use,14
+use,AI use,GPT-5.6,practical_work_use,productivity_or_efficiency,4
+use,AI use,GPT-5.6,practical_work_use,learning_or_training,1
+use,AI use,GPT-5.6,practical_work_use,content_generation,3
+use,AI use,GPT-5.6,practical_work_use,research_or_information_search,2
+use,AI use,GPT-5.6,practical_work_use,client_or_public_facing_advice,5
+use,AI use,GPT-5.6,practical_work_use,no_specific_use_discussed,0
+use,AI use,GPT-5.6,practical_work_use,other,2
+use,AI use,GPT-5.6,practical_work_use,unclear,0
+use,AI use,GPT-5.6,productivity_or_efficiency,job_replacement_or_automation,0
+use,AI use,GPT-5.6,productivity_or_efficiency,practical_work_use,2
+use,AI use,GPT-5.6,productivity_or_efficiency,productivity_or_efficiency,2
+use,AI use,GPT-5.6,productivity_or_efficiency,learning_or_training,0
+use,AI use,GPT-5.6,productivity_or_efficiency,content_generation,0
+use,AI use,GPT-5.6,productivity_or_efficiency,research_or_information_search,1
+use,AI use,GPT-5.6,productivity_or_efficiency,client_or_public_facing_advice,0
+use,AI use,GPT-5.6,productivity_or_efficiency,no_specific_use_discussed,0
+use,AI use,GPT-5.6,productivity_or_efficiency,other,0
+use,AI use,GPT-5.6,productivity_or_efficiency,unclear,0
+use,AI use,GPT-5.6,learning_or_training,job_replacement_or_automation,0
+use,AI use,GPT-5.6,learning_or_training,practical_work_use,0
+use,AI use,GPT-5.6,learning_or_training,productivity_or_efficiency,0
+use,AI use,GPT-5.6,learning_or_training,learning_or_training,2
+use,AI use,GPT-5.6,learning_or_training,content_generation,2
+use,AI use,GPT-5.6,learning_or_training,research_or_information_search,0
+use,AI use,GPT-5.6,learning_or_training,client_or_public_facing_advice,0
+use,AI use,GPT-5.6,learning_or_training,no_specific_use_discussed,0
+use,AI use,GPT-5.6,learning_or_training,other,0
+use,AI use,GPT-5.6,learning_or_training,unclear,0
+use,AI use,GPT-5.6,content_generation,job_replacement_or_automation,0
+use,AI use,GPT-5.6,content_generation,practical_work_use,2
+use,AI use,GPT-5.6,content_generation,productivity_or_efficiency,1
+use,AI use,GPT-5.6,content_generation,learning_or_training,0
+use,AI use,GPT-5.6,content_generation,content_generation,4
+use,AI use,GPT-5.6,content_generation,research_or_information_search,0
+use,AI use,GPT-5.6,content_generation,client_or_public_facing_advice,0
+use,AI use,GPT-5.6,content_generation,no_specific_use_discussed,0
+use,AI use,GPT-5.6,content_generation,other,1
+use,AI use,GPT-5.6,content_generation,unclear,0
+use,AI use,GPT-5.6,research_or_information_search,job_replacement_or_automation,0
+use,AI use,GPT-5.6,research_or_information_search,practical_work_use,3
+use,AI use,GPT-5.6,research_or_information_search,productivity_or_efficiency,0
+use,AI use,GPT-5.6,research_or_information_search,learning_or_training,1
+use,AI use,GPT-5.6,research_or_information_search,content_generation,0
+use,AI use,GPT-5.6,research_or_information_search,research_or_information_search,6
+use,AI use,GPT-5.6,research_or_information_search,client_or_public_facing_advice,0
+use,AI use,GPT-5.6,research_or_information_search,no_specific_use_discussed,0
+use,AI use,GPT-5.6,research_or_information_search,other,0
+use,AI use,GPT-5.6,research_or_information_search,unclear,0
+use,AI use,GPT-5.6,client_or_public_facing_advice,job_replacement_or_automation,0
+use,AI use,GPT-5.6,client_or_public_facing_advice,practical_work_use,0
+use,AI use,GPT-5.6,client_or_public_facing_advice,productivity_or_efficiency,0
+use,AI use,GPT-5.6,client_or_public_facing_advice,learning_or_training,0
+use,AI use,GPT-5.6,client_or_public_facing_advice,content_generation,1
+use,AI use,GPT-5.6,client_or_public_facing_advice,research_or_information_search,1
+use,AI use,GPT-5.6,client_or_public_facing_advice,client_or_public_facing_advice,1
+use,AI use,GPT-5.6,client_or_public_facing_advice,no_specific_use_discussed,0
+use,AI use,GPT-5.6,client_or_public_facing_advice,other,1
+use,AI use,GPT-5.6,client_or_public_facing_advice,unclear,0
+use,AI use,GPT-5.6,no_specific_use_discussed,job_replacement_or_automation,1
+use,AI use,GPT-5.6,no_specific_use_discussed,practical_work_use,2
+use,AI use,GPT-5.6,no_specific_use_discussed,productivity_or_efficiency,0
+use,AI use,GPT-5.6,no_specific_use_discussed,learning_or_training,0
+use,AI use,GPT-5.6,no_specific_use_discussed,content_generation,0
+use,AI use,GPT-5.6,no_specific_use_discussed,research_or_information_search,1
+use,AI use,GPT-5.6,no_specific_use_discussed,client_or_public_facing_advice,1
+use,AI use,GPT-5.6,no_specific_use_discussed,no_specific_use_discussed,1
+use,AI use,GPT-5.6,no_specific_use_discussed,other,0
+use,AI use,GPT-5.6,no_specific_use_discussed,unclear,0
+use,AI use,GPT-5.6,other,job_replacement_or_automation,0
+use,AI use,GPT-5.6,other,practical_work_use,0
+use,AI use,GPT-5.6,other,productivity_or_efficiency,0
+use,AI use,GPT-5.6,other,learning_or_training,0
+use,AI use,GPT-5.6,other,content_generation,0
+use,AI use,GPT-5.6,other,research_or_information_search,0
+use,AI use,GPT-5.6,other,client_or_public_facing_advice,1
+use,AI use,GPT-5.6,other,no_specific_use_discussed,0
+use,AI use,GPT-5.6,other,other,1
+use,AI use,GPT-5.6,other,unclear,0
+use,AI use,GPT-5.6,unclear,job_replacement_or_automation,0
+use,AI use,GPT-5.6,unclear,practical_work_use,0
+use,AI use,GPT-5.6,unclear,productivity_or_efficiency,0
+use,AI use,GPT-5.6,unclear,learning_or_training,0
+use,AI use,GPT-5.6,unclear,content_generation,0
+use,AI use,GPT-5.6,unclear,research_or_information_search,0
+use,AI use,GPT-5.6,unclear,client_or_public_facing_advice,0
+use,AI use,GPT-5.6,unclear,no_specific_use_discussed,1
+use,AI use,GPT-5.6,unclear,other,0
+use,AI use,GPT-5.6,unclear,unclear,0
+use,AI use,GPT-5.1,job_replacement_or_automation,job_replacement_or_automation,20
+use,AI use,GPT-5.1,job_replacement_or_automation,practical_work_use,2
+use,AI use,GPT-5.1,job_replacement_or_automation,productivity_or_efficiency,0
+use,AI use,GPT-5.1,job_replacement_or_automation,learning_or_training,0
+use,AI use,GPT-5.1,job_replacement_or_automation,content_generation,0
+use,AI use,GPT-5.1,job_replacement_or_automation,research_or_information_search,0
+use,AI use,GPT-5.1,job_replacement_or_automation,client_or_public_facing_advice,0
+use,AI use,GPT-5.1,job_replacement_or_automation,no_specific_use_discussed,3
+use,AI use,GPT-5.1,job_replacement_or_automation,other,0
+use,AI use,GPT-5.1,job_replacement_or_automation,unclear,0
+use,AI use,GPT-5.1,practical_work_use,job_replacement_or_automation,2
+use,AI use,GPT-5.1,practical_work_use,practical_work_use,23
+use,AI use,GPT-5.1,practical_work_use,productivity_or_efficiency,4
+use,AI use,GPT-5.1,practical_work_use,learning_or_training,1
+use,AI use,GPT-5.1,practical_work_use,content_generation,0
+use,AI use,GPT-5.1,practical_work_use,research_or_information_search,1
+use,AI use,GPT-5.1,practical_work_use,client_or_public_facing_advice,1
+use,AI use,GPT-5.1,practical_work_use,no_specific_use_discussed,3
+use,AI use,GPT-5.1,practical_work_use,other,0
+use,AI use,GPT-5.1,practical_work_use,unclear,0
+use,AI use,GPT-5.1,productivity_or_efficiency,job_replacement_or_automation,0
+use,AI use,GPT-5.1,productivity_or_efficiency,practical_work_use,2
+use,AI use,GPT-5.1,productivity_or_efficiency,productivity_or_efficiency,2
+use,AI use,GPT-5.1,productivity_or_efficiency,learning_or_training,0
+use,AI use,GPT-5.1,productivity_or_efficiency,content_generation,0
+use,AI use,GPT-5.1,productivity_or_efficiency,research_or_information_search,1
+use,AI use,GPT-5.1,productivity_or_efficiency,client_or_public_facing_advice,0
+use,AI use,GPT-5.1,productivity_or_efficiency,no_specific_use_discussed,0
+use,AI use,GPT-5.1,productivity_or_efficiency,other,0
+use,AI use,GPT-5.1,productivity_or_efficiency,unclear,0
+use,AI use,GPT-5.1,learning_or_training,job_replacement_or_automation,0
+use,AI use,GPT-5.1,learning_or_training,practical_work_use,1
+use,AI use,GPT-5.1,learning_or_training,productivity_or_efficiency,0
+use,AI use,GPT-5.1,learning_or_training,learning_or_training,3
+use,AI use,GPT-5.1,learning_or_training,content_generation,0
+use,AI use,GPT-5.1,learning_or_training,research_or_information_search,0
+use,AI use,GPT-5.1,learning_or_training,client_or_public_facing_advice,0
+use,AI use,GPT-5.1,learning_or_training,no_specific_use_discussed,0
+use,AI use,GPT-5.1,learning_or_training,other,0
+use,AI use,GPT-5.1,learning_or_training,unclear,0
+use,AI use,GPT-5.1,content_generation,job_replacement_or_automation,0
+use,AI use,GPT-5.1,content_generation,practical_work_use,4
+use,AI use,GPT-5.1,content_generation,productivity_or_efficiency,0
+use,AI use,GPT-5.1,content_generation,learning_or_training,0
+use,AI use,GPT-5.1,content_generation,content_generation,1
+use,AI use,GPT-5.1,content_generation,research_or_information_search,1
+use,AI use,GPT-5.1,content_generation,client_or_public_facing_advice,0
+use,AI use,GPT-5.1,content_generation,no_specific_use_discussed,2
+use,AI use,GPT-5.1,content_generation,other,0
+use,AI use,GPT-5.1,content_generation,unclear,0
+use,AI use,GPT-5.1,research_or_information_search,job_replacement_or_automation,1
+use,AI use,GPT-5.1,research_or_information_search,practical_work_use,2
+use,AI use,GPT-5.1,research_or_information_search,productivity_or_efficiency,0
+use,AI use,GPT-5.1,research_or_information_search,learning_or_training,1
+use,AI use,GPT-5.1,research_or_information_search,content_generation,0
+use,AI use,GPT-5.1,research_or_information_search,research_or_information_search,4
+use,AI use,GPT-5.1,research_or_information_search,client_or_public_facing_advice,0
+use,AI use,GPT-5.1,research_or_information_search,no_specific_use_discussed,1
+use,AI use,GPT-5.1,research_or_information_search,other,0
+use,AI use,GPT-5.1,research_or_information_search,unclear,1
+use,AI use,GPT-5.1,client_or_public_facing_advice,job_replacement_or_automation,0
+use,AI use,GPT-5.1,client_or_public_facing_advice,practical_work_use,3
+use,AI use,GPT-5.1,client_or_public_facing_advice,productivity_or_efficiency,0
+use,AI use,GPT-5.1,client_or_public_facing_advice,learning_or_training,0
+use,AI use,GPT-5.1,client_or_public_facing_advice,content_generation,1
+use,AI use,GPT-5.1,client_or_public_facing_advice,research_or_information_search,0
+use,AI use,GPT-5.1,client_or_public_facing_advice,client_or_public_facing_advice,0
+use,AI use,GPT-5.1,client_or_public_facing_advice,no_specific_use_discussed,0
+use,AI use,GPT-5.1,client_or_public_facing_advice,other,0
+use,AI use,GPT-5.1,client_or_public_facing_advice,unclear,0
+use,AI use,GPT-5.1,no_specific_use_discussed,job_replacement_or_automation,1
+use,AI use,GPT-5.1,no_specific_use_discussed,practical_work_use,1
+use,AI use,GPT-5.1,no_specific_use_discussed,productivity_or_efficiency,0
+use,AI use,GPT-5.1,no_specific_use_discussed,learning_or_training,0
+use,AI use,GPT-5.1,no_specific_use_discussed,content_generation,0
+use,AI use,GPT-5.1,no_specific_use_discussed,research_or_information_search,0
+use,AI use,GPT-5.1,no_specific_use_discussed,client_or_public_facing_advice,0
+use,AI use,GPT-5.1,no_specific_use_discussed,no_specific_use_discussed,4
+use,AI use,GPT-5.1,no_specific_use_discussed,other,0
+use,AI use,GPT-5.1,no_specific_use_discussed,unclear,0
+use,AI use,GPT-5.1,other,job_replacement_or_automation,0
+use,AI use,GPT-5.1,other,practical_work_use,2
+use,AI use,GPT-5.1,other,productivity_or_efficiency,0
+use,AI use,GPT-5.1,other,learning_or_training,0
+use,AI use,GPT-5.1,other,content_generation,0
+use,AI use,GPT-5.1,other,research_or_information_search,0
+use,AI use,GPT-5.1,other,client_or_public_facing_advice,0
+use,AI use,GPT-5.1,other,no_specific_use_discussed,0
+use,AI use,GPT-5.1,other,other,0
+use,AI use,GPT-5.1,other,unclear,0
+use,AI use,GPT-5.1,unclear,job_replacement_or_automation,0
+use,AI use,GPT-5.1,unclear,practical_work_use,0
+use,AI use,GPT-5.1,unclear,productivity_or_efficiency,0
+use,AI use,GPT-5.1,unclear,learning_or_training,0
+use,AI use,GPT-5.1,unclear,content_generation,0
+use,AI use,GPT-5.1,unclear,research_or_information_search,0
+use,AI use,GPT-5.1,unclear,client_or_public_facing_advice,0
+use,AI use,GPT-5.1,unclear,no_specific_use_discussed,1
+use,AI use,GPT-5.1,unclear,other,0
+use,AI use,GPT-5.1,unclear,unclear,0
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,high_capability,12
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,limited_capability,0
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,mixed_or_conditional_capability,8
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,no_capability_assessment,1
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,high_capability,0
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,limited_capability,18
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,mixed_or_conditional_capability,6
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,no_capability_assessment,0
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,high_capability,5
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,limited_capability,5
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,mixed_or_conditional_capability,23
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,no_capability_assessment,2
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,high_capability,3
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,limited_capability,2
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,mixed_or_conditional_capability,1
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,no_capability_assessment,13
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,unclear,0
+capability_assessment,Capability assessment,GPT-5 mini,unclear,high_capability,0
+capability_assessment,Capability assessment,GPT-5 mini,unclear,limited_capability,0
+capability_assessment,Capability assessment,GPT-5 mini,unclear,mixed_or_conditional_capability,0
+capability_assessment,Capability assessment,GPT-5 mini,unclear,no_capability_assessment,1
+capability_assessment,Capability assessment,GPT-5 mini,unclear,unclear,0
+capability_assessment,Capability assessment,GPT-5.6,high_capability,high_capability,17
+capability_assessment,Capability assessment,GPT-5.6,high_capability,limited_capability,0
+capability_assessment,Capability assessment,GPT-5.6,high_capability,mixed_or_conditional_capability,3
+capability_assessment,Capability assessment,GPT-5.6,high_capability,no_capability_assessment,1
+capability_assessment,Capability assessment,GPT-5.6,high_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,high_capability,0
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,limited_capability,17
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,mixed_or_conditional_capability,6
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,no_capability_assessment,1
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,high_capability,6
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,limited_capability,3
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,mixed_or_conditional_capability,22
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,no_capability_assessment,4
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,high_capability,2
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,limited_capability,3
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,mixed_or_conditional_capability,1
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,no_capability_assessment,13
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,unclear,0
+capability_assessment,Capability assessment,GPT-5.6,unclear,high_capability,0
+capability_assessment,Capability assessment,GPT-5.6,unclear,limited_capability,0
+capability_assessment,Capability assessment,GPT-5.6,unclear,mixed_or_conditional_capability,0
+capability_assessment,Capability assessment,GPT-5.6,unclear,no_capability_assessment,1
+capability_assessment,Capability assessment,GPT-5.6,unclear,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,high_capability,high_capability,16
+capability_assessment,Capability assessment,GPT-5.1,high_capability,limited_capability,0
+capability_assessment,Capability assessment,GPT-5.1,high_capability,mixed_or_conditional_capability,2
+capability_assessment,Capability assessment,GPT-5.1,high_capability,no_capability_assessment,3
+capability_assessment,Capability assessment,GPT-5.1,high_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,high_capability,0
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,limited_capability,18
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,mixed_or_conditional_capability,6
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,no_capability_assessment,0
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,high_capability,9
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,limited_capability,4
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,mixed_or_conditional_capability,16
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,no_capability_assessment,6
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,high_capability,4
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,limited_capability,3
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,mixed_or_conditional_capability,0
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,no_capability_assessment,12
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,unclear,high_capability,0
+capability_assessment,Capability assessment,GPT-5.1,unclear,limited_capability,0
+capability_assessment,Capability assessment,GPT-5.1,unclear,mixed_or_conditional_capability,0
+capability_assessment,Capability assessment,GPT-5.1,unclear,no_capability_assessment,1
+capability_assessment,Capability assessment,GPT-5.1,unclear,unclear,0
+trust_construct,Trust construct,GPT-5 mini,perceived_trustworthiness,perceived_trustworthiness,13
+trust_construct,Trust construct,GPT-5 mini,perceived_trustworthiness,attitudinal_trust_willingness_to_rely,4
+trust_construct,Trust construct,GPT-5 mini,perceived_trustworthiness,trusting_behaviour,2
+trust_construct,Trust construct,GPT-5 mini,perceived_trustworthiness,multiple_trust_constructs,12
+trust_construct,Trust construct,GPT-5 mini,perceived_trustworthiness,no_trust_content,1
+trust_construct,Trust construct,GPT-5 mini,perceived_trustworthiness,unclear,0
+trust_construct,Trust construct,GPT-5 mini,attitudinal_trust_willingness_to_rely,perceived_trustworthiness,8
+trust_construct,Trust construct,GPT-5 mini,attitudinal_trust_willingness_to_rely,attitudinal_trust_willingness_to_rely,9
+trust_construct,Trust construct,GPT-5 mini,attitudinal_trust_willingness_to_rely,trusting_behaviour,2
+trust_construct,Trust construct,GPT-5 mini,attitudinal_trust_willingness_to_rely,multiple_trust_constructs,5
+trust_construct,Trust construct,GPT-5 mini,attitudinal_trust_willingness_to_rely,no_trust_content,1
+trust_construct,Trust construct,GPT-5 mini,attitudinal_trust_willingness_to_rely,unclear,0
+trust_construct,Trust construct,GPT-5 mini,trusting_behaviour,perceived_trustworthiness,0
+trust_construct,Trust construct,GPT-5 mini,trusting_behaviour,attitudinal_trust_willingness_to_rely,0
+trust_construct,Trust construct,GPT-5 mini,trusting_behaviour,trusting_behaviour,9
+trust_construct,Trust construct,GPT-5 mini,trusting_behaviour,multiple_trust_constructs,6
+trust_construct,Trust construct,GPT-5 mini,trusting_behaviour,no_trust_content,0
+trust_construct,Trust construct,GPT-5 mini,trusting_behaviour,unclear,0
+trust_construct,Trust construct,GPT-5 mini,multiple_trust_constructs,perceived_trustworthiness,0
+trust_construct,Trust construct,GPT-5 mini,multiple_trust_constructs,attitudinal_trust_willingness_to_rely,0
+trust_construct,Trust construct,GPT-5 mini,multiple_trust_constructs,trusting_behaviour,0
+trust_construct,Trust construct,GPT-5 mini,multiple_trust_constructs,multiple_trust_constructs,1
+trust_construct,Trust construct,GPT-5 mini,multiple_trust_constructs,no_trust_content,0
+trust_construct,Trust construct,GPT-5 mini,multiple_trust_constructs,unclear,0
+trust_construct,Trust construct,GPT-5 mini,no_trust_content,perceived_trustworthiness,7
+trust_construct,Trust construct,GPT-5 mini,no_trust_content,attitudinal_trust_willingness_to_rely,4
+trust_construct,Trust construct,GPT-5 mini,no_trust_content,trusting_behaviour,11
+trust_construct,Trust construct,GPT-5 mini,no_trust_content,multiple_trust_constructs,1
+trust_construct,Trust construct,GPT-5 mini,no_trust_content,no_trust_content,3
+trust_construct,Trust construct,GPT-5 mini,no_trust_content,unclear,0
+trust_construct,Trust construct,GPT-5 mini,unclear,perceived_trustworthiness,0
+trust_construct,Trust construct,GPT-5 mini,unclear,attitudinal_trust_willingness_to_rely,0
+trust_construct,Trust construct,GPT-5 mini,unclear,trusting_behaviour,0
+trust_construct,Trust construct,GPT-5 mini,unclear,multiple_trust_constructs,0
+trust_construct,Trust construct,GPT-5 mini,unclear,no_trust_content,1
+trust_construct,Trust construct,GPT-5 mini,unclear,unclear,0
+trust_construct,Trust construct,GPT-5.6,perceived_trustworthiness,perceived_trustworthiness,10
+trust_construct,Trust construct,GPT-5.6,perceived_trustworthiness,attitudinal_trust_willingness_to_rely,4
+trust_construct,Trust construct,GPT-5.6,perceived_trustworthiness,trusting_behaviour,0
+trust_construct,Trust construct,GPT-5.6,perceived_trustworthiness,multiple_trust_constructs,9
+trust_construct,Trust construct,GPT-5.6,perceived_trustworthiness,no_trust_content,9
+trust_construct,Trust construct,GPT-5.6,perceived_trustworthiness,unclear,0
+trust_construct,Trust construct,GPT-5.6,attitudinal_trust_willingness_to_rely,perceived_trustworthiness,5
+trust_construct,Trust construct,GPT-5.6,attitudinal_trust_willingness_to_rely,attitudinal_trust_willingness_to_rely,4
+trust_construct,Trust construct,GPT-5.6,attitudinal_trust_willingness_to_rely,trusting_behaviour,2
+trust_construct,Trust construct,GPT-5.6,attitudinal_trust_willingness_to_rely,multiple_trust_constructs,3
+trust_construct,Trust construct,GPT-5.6,attitudinal_trust_willingness_to_rely,no_trust_content,11
+trust_construct,Trust construct,GPT-5.6,attitudinal_trust_willingness_to_rely,unclear,0
+trust_construct,Trust construct,GPT-5.6,trusting_behaviour,perceived_trustworthiness,0
+trust_construct,Trust construct,GPT-5.6,trusting_behaviour,attitudinal_trust_willingness_to_rely,0
+trust_construct,Trust construct,GPT-5.6,trusting_behaviour,trusting_behaviour,8
+trust_construct,Trust construct,GPT-5.6,trusting_behaviour,multiple_trust_constructs,6
+trust_construct,Trust construct,GPT-5.6,trusting_behaviour,no_trust_content,1
+trust_construct,Trust construct,GPT-5.6,trusting_behaviour,unclear,0
+trust_construct,Trust construct,GPT-5.6,multiple_trust_constructs,perceived_trustworthiness,0
+trust_construct,Trust construct,GPT-5.6,multiple_trust_constructs,attitudinal_trust_willingness_to_rely,0
+trust_construct,Trust construct,GPT-5.6,multiple_trust_constructs,trusting_behaviour,1
+trust_construct,Trust construct,GPT-5.6,multiple_trust_constructs,multiple_trust_constructs,0
+trust_construct,Trust construct,GPT-5.6,multiple_trust_constructs,no_trust_content,0
+trust_construct,Trust construct,GPT-5.6,multiple_trust_constructs,unclear,0
+trust_construct,Trust construct,GPT-5.6,no_trust_content,perceived_trustworthiness,1
+trust_construct,Trust construct,GPT-5.6,no_trust_content,attitudinal_trust_willingness_to_rely,2
+trust_construct,Trust construct,GPT-5.6,no_trust_content,trusting_behaviour,3
+trust_construct,Trust construct,GPT-5.6,no_trust_content,multiple_trust_constructs,0
+trust_construct,Trust construct,GPT-5.6,no_trust_content,no_trust_content,20
+trust_construct,Trust construct,GPT-5.6,no_trust_content,unclear,0
+trust_construct,Trust construct,GPT-5.6,unclear,perceived_trustworthiness,0
+trust_construct,Trust construct,GPT-5.6,unclear,attitudinal_trust_willingness_to_rely,0
+trust_construct,Trust construct,GPT-5.6,unclear,trusting_behaviour,0
+trust_construct,Trust construct,GPT-5.6,unclear,multiple_trust_constructs,0
+trust_construct,Trust construct,GPT-5.6,unclear,no_trust_content,1
+trust_construct,Trust construct,GPT-5.6,unclear,unclear,0
+trust_construct,Trust construct,GPT-5.1,perceived_trustworthiness,perceived_trustworthiness,7
+trust_construct,Trust construct,GPT-5.1,perceived_trustworthiness,attitudinal_trust_willingness_to_rely,3
+trust_construct,Trust construct,GPT-5.1,perceived_trustworthiness,trusting_behaviour,3
+trust_construct,Trust construct,GPT-5.1,perceived_trustworthiness,multiple_trust_constructs,6
+trust_construct,Trust construct,GPT-5.1,perceived_trustworthiness,no_trust_content,13
+trust_construct,Trust construct,GPT-5.1,perceived_trustworthiness,unclear,0
+trust_construct,Trust construct,GPT-5.1,attitudinal_trust_willingness_to_rely,perceived_trustworthiness,3
+trust_construct,Trust construct,GPT-5.1,attitudinal_trust_willingness_to_rely,attitudinal_trust_willingness_to_rely,3
+trust_construct,Trust construct,GPT-5.1,attitudinal_trust_willingness_to_rely,trusting_behaviour,4
+trust_construct,Trust construct,GPT-5.1,attitudinal_trust_willingness_to_rely,multiple_trust_constructs,4
+trust_construct,Trust construct,GPT-5.1,attitudinal_trust_willingness_to_rely,no_trust_content,11
+trust_construct,Trust construct,GPT-5.1,attitudinal_trust_willingness_to_rely,unclear,0
+trust_construct,Trust construct,GPT-5.1,trusting_behaviour,perceived_trustworthiness,0
+trust_construct,Trust construct,GPT-5.1,trusting_behaviour,attitudinal_trust_willingness_to_rely,1
+trust_construct,Trust construct,GPT-5.1,trusting_behaviour,trusting_behaviour,10
+trust_construct,Trust construct,GPT-5.1,trusting_behaviour,multiple_trust_constructs,2
+trust_construct,Trust construct,GPT-5.1,trusting_behaviour,no_trust_content,2
+trust_construct,Trust construct,GPT-5.1,trusting_behaviour,unclear,0
+trust_construct,Trust construct,GPT-5.1,multiple_trust_constructs,perceived_trustworthiness,0
+trust_construct,Trust construct,GPT-5.1,multiple_trust_constructs,attitudinal_trust_willingness_to_rely,1
+trust_construct,Trust construct,GPT-5.1,multiple_trust_constructs,trusting_behaviour,0
+trust_construct,Trust construct,GPT-5.1,multiple_trust_constructs,multiple_trust_constructs,0
+trust_construct,Trust construct,GPT-5.1,multiple_trust_constructs,no_trust_content,0
+trust_construct,Trust construct,GPT-5.1,multiple_trust_constructs,unclear,0
+trust_construct,Trust construct,GPT-5.1,no_trust_content,perceived_trustworthiness,1
+trust_construct,Trust construct,GPT-5.1,no_trust_content,attitudinal_trust_willingness_to_rely,2
+trust_construct,Trust construct,GPT-5.1,no_trust_content,trusting_behaviour,1
+trust_construct,Trust construct,GPT-5.1,no_trust_content,multiple_trust_constructs,1
+trust_construct,Trust construct,GPT-5.1,no_trust_content,no_trust_content,21
+trust_construct,Trust construct,GPT-5.1,no_trust_content,unclear,0
+trust_construct,Trust construct,GPT-5.1,unclear,perceived_trustworthiness,0
+trust_construct,Trust construct,GPT-5.1,unclear,attitudinal_trust_willingness_to_rely,0
+trust_construct,Trust construct,GPT-5.1,unclear,trusting_behaviour,0
+trust_construct,Trust construct,GPT-5.1,unclear,multiple_trust_constructs,0
+trust_construct,Trust construct,GPT-5.1,unclear,no_trust_content,1
+trust_construct,Trust construct,GPT-5.1,unclear,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,bounded_trust_with_human_checking,2
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,concern_about_ethics_liability_or_accountability,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,no_trust_boundary_discussed,4
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,distrusts_AI_output,3
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,trust_depends_on_task_or_context,2
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,concern_about_hallucination_or_accuracy,4
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,no_trust_boundary_discussed,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,distrusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,trust_depends_on_task_or_context,9
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,bounded_trust_with_human_checking,4
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,concern_about_hallucination_or_accuracy,2
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,concern_about_ethics_liability_or_accountability,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,no_trust_boundary_discussed,4
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,trust_depends_on_task_or_context,2
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,bounded_trust_with_human_checking,11
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,no_trust_boundary_discussed,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,trust_depends_on_task_or_context,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,concern_about_hallucination_or_accuracy,6
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,no_trust_boundary_discussed,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,bounded_trust_with_human_checking,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,concern_about_ethics_liability_or_accountability,6
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,no_trust_boundary_discussed,2
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,trust_depends_on_task_or_context,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,model_specific_trust,3
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,no_trust_boundary_discussed,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,trusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,distrusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,trust_depends_on_task_or_context,2
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,bounded_trust_with_human_checking,2
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,concern_about_hallucination_or_accuracy,2
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,concern_about_ethics_liability_or_accountability,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,no_trust_boundary_discussed,18
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,no_trust_boundary_discussed,1
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,trusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,bounded_trust_with_human_checking,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,no_trust_boundary_discussed,5
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,distrusts_AI_output,3
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,concern_about_hallucination_or_accuracy,4
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,no_trust_boundary_discussed,3
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,trusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,trust_depends_on_task_or_context,4
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,bounded_trust_with_human_checking,5
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,concern_about_hallucination_or_accuracy,2
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,concern_about_ethics_liability_or_accountability,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,no_trust_boundary_discussed,8
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,trust_depends_on_task_or_context,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,bounded_trust_with_human_checking,12
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,no_trust_boundary_discussed,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,concern_about_hallucination_or_accuracy,6
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,no_trust_boundary_discussed,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,concern_about_ethics_liability_or_accountability,6
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,no_trust_boundary_discussed,3
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,trust_depends_on_task_or_context,2
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,model_specific_trust,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,no_trust_boundary_discussed,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,trusts_AI_output,2
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,distrusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,concern_about_hallucination_or_accuracy,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,concern_about_ethics_liability_or_accountability,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,no_trust_boundary_discussed,22
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,no_trust_boundary_discussed,1
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,trusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,trust_depends_on_task_or_context,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,bounded_trust_with_human_checking,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,no_trust_boundary_discussed,4
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,distrusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,bounded_trust_with_human_checking,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,concern_about_hallucination_or_accuracy,3
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,no_trust_boundary_discussed,5
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,trusts_AI_output,2
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,trust_depends_on_task_or_context,7
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,concern_about_hallucination_or_accuracy,2
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,concern_about_ethics_liability_or_accountability,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,no_trust_boundary_discussed,9
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,trust_depends_on_task_or_context,4
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,bounded_trust_with_human_checking,8
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,no_trust_boundary_discussed,2
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,concern_about_hallucination_or_accuracy,4
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,no_trust_boundary_discussed,3
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,distrusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,concern_about_ethics_liability_or_accountability,3
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,no_trust_boundary_discussed,5
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,concern_about_hallucination_or_accuracy,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,model_specific_trust,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,no_trust_boundary_discussed,2
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,trusts_AI_output,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,concern_about_hallucination_or_accuracy,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,concern_about_ethics_liability_or_accountability,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,no_trust_boundary_discussed,24
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,unclear,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,trusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,distrusts_AI_output,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,trust_depends_on_task_or_context,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,bounded_trust_with_human_checking,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,concern_about_hallucination_or_accuracy,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,concern_about_ethics_liability_or_accountability,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,model_specific_trust,0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,no_trust_boundary_discussed,1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,unclear,0

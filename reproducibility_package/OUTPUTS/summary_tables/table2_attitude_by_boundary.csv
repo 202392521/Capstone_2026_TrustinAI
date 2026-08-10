@@ -1,0 +1,5 @@
+attitude,attitude_code,boundary_present_n,boundary_absent_n,total_substantive_trust_n,boundary_rate_percent
+Positive,positive,167,132,299,55.9
+Mixed / ambivalent,mixed_or_ambivalent,281,30,311,90.4
+Neutral / descriptive,neutral_descriptive,58,42,100,58.0
+Negative,negative,355,139,494,71.9

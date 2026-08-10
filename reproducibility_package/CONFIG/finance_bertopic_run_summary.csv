@@ -1,0 +1,27 @@
+metric,value
+industry,finance
+input_file,outputs/four_industry_ai_comments_master_harmonised_total_posts_ranked_v3.csv
+total_rows,3265
+modelled_rows,3199
+excluded_empty_unusable_rows,66
+text_definition,comment_body
+substantive_topics_excluding_outlier,8
+topics_found_including_outlier,9
+outlier_count,1012
+outlier_rate,0.316349
+embedding_model,sentence-transformers/all-MiniLM-L6-v2
+random_seed,42
+min_topic_size,70
+min_samples,10
+min_df,5
+max_df,0.8
+ngram_range,"(1, 3)"
+stopword_policy,generic_ai_reddit_terms_plus_occupational_identity_terms
+industry_identity_stopwords,acca; accountant; accountants; accounting; bookkeeper; bookkeepers; bookkeeping; cpa; cpas; finance; financial
+representation_model,keybert_mmr
+nr_topics,none
+calculate_probabilities,0
+domination_flagged_topics,0
+post_month_outside_window_rows,0
+comment_month_outside_window_rows,32
+run_timestamp,2026-07-25T18:49:05

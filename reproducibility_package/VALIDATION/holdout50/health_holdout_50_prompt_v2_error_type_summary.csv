@@ -1,0 +1,7 @@
+error_type,count
+trust_construct_disagreement,9
+false_negative_content,7
+trust_boundary_disagreement,7
+false_negative_boundary,5
+false_positive_content,2
+false_positive_content_capability_or_attitude,1

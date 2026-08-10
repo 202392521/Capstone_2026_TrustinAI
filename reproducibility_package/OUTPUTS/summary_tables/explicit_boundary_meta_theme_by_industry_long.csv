@@ -1,0 +1,25 @@
+meta_theme,industry,n_comments,industry_denominator,within_industry_percent
+Verification & epistemic reliability,Finance,45,129,34.883720930232556
+Verification & epistemic reliability,Healthcare,19,203,9.35960591133005
+Verification & epistemic reliability,Law,101,171,59.06432748538012
+Verification & epistemic reliability,Software / IT,33,143,23.076923076923077
+Task-specific augmentation,Finance,63,129,48.837209302325576
+Task-specific augmentation,Healthcare,18,203,8.866995073891626
+Task-specific augmentation,Law,18,171,10.526315789473683
+Task-specific augmentation,Software / IT,83,143,58.04195804195804
+Human oversight & accountability,Finance,16,129,12.4031007751938
+Human oversight & accountability,Healthcare,98,203,48.275862068965516
+Human oversight & accountability,Law,2,171,1.1695906432748537
+Human oversight & accountability,Software / IT,17,143,11.888111888111888
+Authorship / detection / governance,Finance,5,129,3.875968992248062
+Authorship / detection / governance,Healthcare,6,203,2.955665024630542
+Authorship / detection / governance,Law,38,171,22.22222222222222
+Authorship / detection / governance,Software / IT,8,143,5.594405594405594
+Privacy / confidentiality,Finance,0,129,0.0
+Privacy / confidentiality,Healthcare,36,203,17.733990147783253
+Privacy / confidentiality,Law,12,171,7.017543859649122
+Privacy / confidentiality,Software / IT,2,143,1.3986013986013985
+Relational / human judgement,Finance,0,129,0.0
+Relational / human judgement,Healthcare,26,203,12.807881773399016
+Relational / human judgement,Law,0,171,0.0
+Relational / human judgement,Software / IT,0,143,0.0

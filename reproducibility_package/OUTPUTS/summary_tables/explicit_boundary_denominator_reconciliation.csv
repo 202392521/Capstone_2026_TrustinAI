@@ -1,0 +1,6 @@
+stage,n_comments,share_of_861_input,interpretation
+Explicit-boundary input corpus,861,1,All comments supplied to the final boundary BERTopic workflow.
+Excluded before modelling,3,0.003484320557491289,Three comments were blank or below the minimum usable-text requirement after cleaning.
+Modelled comments,858,0.9965156794425087,"Comments receiving a BERTopic assignment, including Topic -1."
+Topic -1 heterogeneous/unassigned,212,0.2462253193960511,Retained for audit but excluded from substantive reporting-theme prevalence.
+Assigned to substantive raw topics,646,0.7502903600464577,Denominator used for the 14 reporting-theme prevalence estimates.

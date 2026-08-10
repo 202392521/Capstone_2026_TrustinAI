@@ -1,0 +1,25 @@
+task_type,field_or_gate,model_a,model_b,both_correct,model_a_only_correct,model_b_only_correct,both_wrong,prediction_agreement
+multiclass,attitude,GPT-5 mini,GPT-5.6,61,6,10,23,0.79
+multiclass,attitude_target,GPT-5 mini,GPT-5.6,35,9,11,45,0.68
+multiclass,use,GPT-5 mini,GPT-5.6,45,18,6,31,0.68
+multiclass,capability_assessment,GPT-5 mini,GPT-5.6,58,8,11,23,0.79
+multiclass,trust_construct,GPT-5 mini,GPT-5.6,21,14,21,44,0.5
+multiclass,trust_boundary,GPT-5 mini,GPT-5.6,44,12,11,33,0.68
+binary_gate,substantive_trust_content,GPT-5 mini,GPT-5.6,56,19,17,8,0.64
+binary_gate,explicit_trust_boundary,GPT-5 mini,GPT-5.6,64,15,9,12,0.76
+multiclass,attitude,GPT-5 mini,GPT-5.1,55,12,9,24,0.74
+multiclass,attitude_target,GPT-5 mini,GPT-5.1,32,12,23,33,0.54
+multiclass,use,GPT-5 mini,GPT-5.1,47,16,10,27,0.65
+multiclass,capability_assessment,GPT-5 mini,GPT-5.1,53,13,9,25,0.76
+multiclass,trust_construct,GPT-5 mini,GPT-5.1,16,19,25,40,0.37
+multiclass,trust_boundary,GPT-5 mini,GPT-5.1,36,20,13,31,0.56
+binary_gate,substantive_trust_content,GPT-5 mini,GPT-5.1,51,24,18,7,0.58
+binary_gate,explicit_trust_boundary,GPT-5 mini,GPT-5.1,59,20,8,13,0.72
+multiclass,attitude,GPT-5.6,GPT-5.1,58,13,6,23,0.74
+multiclass,attitude_target,GPT-5.6,GPT-5.1,36,10,19,35,0.63
+multiclass,use,GPT-5.6,GPT-5.1,43,8,14,35,0.65
+multiclass,capability_assessment,GPT-5.6,GPT-5.1,55,14,7,24,0.78
+multiclass,trust_construct,GPT-5.6,GPT-5.1,34,8,7,51,0.72
+multiclass,trust_boundary,GPT-5.6,GPT-5.1,41,14,8,37,0.71
+binary_gate,substantive_trust_content,GPT-5.6,GPT-5.1,63,10,6,21,0.84
+binary_gate,explicit_trust_boundary,GPT-5.6,GPT-5.1,62,11,5,22,0.84

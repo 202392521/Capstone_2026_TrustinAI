@@ -1,0 +1,127 @@
+field,field_display,model,label,predicted_n,predicted_share
+attitude,Attitude,GPT-5 mini,positive,23,0.23
+attitude,Attitude,GPT-5 mini,negative,43,0.43
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,27,0.27
+attitude,Attitude,GPT-5 mini,neutral_descriptive,7,0.07
+attitude,Attitude,GPT-5 mini,unclear,0,0.0
+attitude,Attitude,GPT-5.6,positive,25,0.25
+attitude,Attitude,GPT-5.6,negative,44,0.44
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,23,0.23
+attitude,Attitude,GPT-5.6,neutral_descriptive,7,0.07
+attitude,Attitude,GPT-5.6,unclear,1,0.01
+attitude,Attitude,GPT-5.1,positive,24,0.24
+attitude,Attitude,GPT-5.1,negative,35,0.35
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,31,0.31
+attitude,Attitude,GPT-5.1,neutral_descriptive,8,0.08
+attitude,Attitude,GPT-5.1,unclear,2,0.02
+attitude_target,Attitude target,GPT-5 mini,AI_capability_or_performance,17,0.17
+attitude_target,Attitude target,GPT-5 mini,professional_or_employment_consequences,22,0.22
+attitude_target,Attitude target,GPT-5 mini,ethical_or_social_consequences,8,0.08
+attitude_target,Attitude target,GPT-5 mini,specific_use_case,42,0.42
+attitude_target,Attitude target,GPT-5 mini,company_or_deployment_practice,9,0.09
+attitude_target,Attitude target,GPT-5 mini,general_AI,2,0.02
+attitude_target,Attitude target,GPT-5 mini,unclear,0,0.0
+attitude_target,Attitude target,GPT-5.6,AI_capability_or_performance,18,0.18
+attitude_target,Attitude target,GPT-5.6,professional_or_employment_consequences,20,0.2
+attitude_target,Attitude target,GPT-5.6,ethical_or_social_consequences,7,0.07
+attitude_target,Attitude target,GPT-5.6,specific_use_case,47,0.47
+attitude_target,Attitude target,GPT-5.6,company_or_deployment_practice,6,0.06
+attitude_target,Attitude target,GPT-5.6,general_AI,2,0.02
+attitude_target,Attitude target,GPT-5.6,unclear,0,0.0
+attitude_target,Attitude target,GPT-5.1,AI_capability_or_performance,35,0.35
+attitude_target,Attitude target,GPT-5.1,professional_or_employment_consequences,18,0.18
+attitude_target,Attitude target,GPT-5.1,ethical_or_social_consequences,7,0.07
+attitude_target,Attitude target,GPT-5.1,specific_use_case,27,0.27
+attitude_target,Attitude target,GPT-5.1,company_or_deployment_practice,4,0.04
+attitude_target,Attitude target,GPT-5.1,general_AI,7,0.07
+attitude_target,Attitude target,GPT-5.1,unclear,2,0.02
+use,AI use,GPT-5 mini,job_replacement_or_automation,24,0.24
+use,AI use,GPT-5 mini,practical_work_use,36,0.36
+use,AI use,GPT-5 mini,productivity_or_efficiency,4,0.04
+use,AI use,GPT-5 mini,learning_or_training,8,0.08
+use,AI use,GPT-5 mini,content_generation,10,0.1
+use,AI use,GPT-5 mini,research_or_information_search,7,0.07
+use,AI use,GPT-5 mini,client_or_public_facing_advice,2,0.02
+use,AI use,GPT-5 mini,no_specific_use_discussed,7,0.07
+use,AI use,GPT-5 mini,other,2,0.02
+use,AI use,GPT-5 mini,unclear,0,0.0
+use,AI use,GPT-5.6,job_replacement_or_automation,25,0.25
+use,AI use,GPT-5.6,practical_work_use,23,0.23
+use,AI use,GPT-5.6,productivity_or_efficiency,7,0.07
+use,AI use,GPT-5.6,learning_or_training,4,0.04
+use,AI use,GPT-5.6,content_generation,10,0.1
+use,AI use,GPT-5.6,research_or_information_search,11,0.11
+use,AI use,GPT-5.6,client_or_public_facing_advice,11,0.11
+use,AI use,GPT-5.6,no_specific_use_discussed,4,0.04
+use,AI use,GPT-5.6,other,5,0.05
+use,AI use,GPT-5.6,unclear,0,0.0
+use,AI use,GPT-5.1,job_replacement_or_automation,24,0.24
+use,AI use,GPT-5.1,practical_work_use,40,0.4
+use,AI use,GPT-5.1,productivity_or_efficiency,6,0.06
+use,AI use,GPT-5.1,learning_or_training,5,0.05
+use,AI use,GPT-5.1,content_generation,2,0.02
+use,AI use,GPT-5.1,research_or_information_search,7,0.07
+use,AI use,GPT-5.1,client_or_public_facing_advice,1,0.01
+use,AI use,GPT-5.1,no_specific_use_discussed,14,0.14
+use,AI use,GPT-5.1,other,0,0.0
+use,AI use,GPT-5.1,unclear,1,0.01
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,20,0.2
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,25,0.25
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,38,0.38
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,17,0.17
+capability_assessment,Capability assessment,GPT-5 mini,unclear,0,0.0
+capability_assessment,Capability assessment,GPT-5.6,high_capability,25,0.25
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,23,0.23
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,32,0.32
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,20,0.2
+capability_assessment,Capability assessment,GPT-5.6,unclear,0,0.0
+capability_assessment,Capability assessment,GPT-5.1,high_capability,29,0.29
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,25,0.25
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,24,0.24
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,22,0.22
+capability_assessment,Capability assessment,GPT-5.1,unclear,0,0.0
+trust_construct,Trust construct,GPT-5 mini,perceived_trustworthiness,28,0.28
+trust_construct,Trust construct,GPT-5 mini,attitudinal_trust_willingness_to_rely,17,0.17
+trust_construct,Trust construct,GPT-5 mini,trusting_behaviour,24,0.24
+trust_construct,Trust construct,GPT-5 mini,multiple_trust_constructs,25,0.25
+trust_construct,Trust construct,GPT-5 mini,no_trust_content,6,0.06
+trust_construct,Trust construct,GPT-5 mini,unclear,0,0.0
+trust_construct,Trust construct,GPT-5.6,perceived_trustworthiness,16,0.16
+trust_construct,Trust construct,GPT-5.6,attitudinal_trust_willingness_to_rely,10,0.1
+trust_construct,Trust construct,GPT-5.6,trusting_behaviour,14,0.14
+trust_construct,Trust construct,GPT-5.6,multiple_trust_constructs,18,0.18
+trust_construct,Trust construct,GPT-5.6,no_trust_content,42,0.42
+trust_construct,Trust construct,GPT-5.6,unclear,0,0.0
+trust_construct,Trust construct,GPT-5.1,perceived_trustworthiness,11,0.11
+trust_construct,Trust construct,GPT-5.1,attitudinal_trust_willingness_to_rely,10,0.1
+trust_construct,Trust construct,GPT-5.1,trusting_behaviour,18,0.18
+trust_construct,Trust construct,GPT-5.1,multiple_trust_constructs,13,0.13
+trust_construct,Trust construct,GPT-5.1,no_trust_content,48,0.48
+trust_construct,Trust construct,GPT-5.1,unclear,0,0.0
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trusts_AI_output,1,0.01
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,distrusts_AI_output,5,0.05
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,trust_depends_on_task_or_context,17,0.17
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,bounded_trust_with_human_checking,20,0.2
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_hallucination_or_accuracy,14,0.14
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,concern_about_ethics_liability_or_accountability,9,0.09
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,model_specific_trust,3,0.03
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,no_trust_boundary_discussed,31,0.31
+trust_boundary,Fine-grained trust boundary,GPT-5 mini,unclear,0,0.0
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trusts_AI_output,4,0.04
+trust_boundary,Fine-grained trust boundary,GPT-5.6,distrusts_AI_output,4,0.04
+trust_boundary,Fine-grained trust boundary,GPT-5.6,trust_depends_on_task_or_context,7,0.07
+trust_boundary,Fine-grained trust boundary,GPT-5.6,bounded_trust_with_human_checking,18,0.18
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_hallucination_or_accuracy,13,0.13
+trust_boundary,Fine-grained trust boundary,GPT-5.6,concern_about_ethics_liability_or_accountability,8,0.08
+trust_boundary,Fine-grained trust boundary,GPT-5.6,model_specific_trust,1,0.01
+trust_boundary,Fine-grained trust boundary,GPT-5.6,no_trust_boundary_discussed,45,0.45
+trust_boundary,Fine-grained trust boundary,GPT-5.6,unclear,0,0.0
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trusts_AI_output,4,0.04
+trust_boundary,Fine-grained trust boundary,GPT-5.1,distrusts_AI_output,2,0.02
+trust_boundary,Fine-grained trust boundary,GPT-5.1,trust_depends_on_task_or_context,12,0.12
+trust_boundary,Fine-grained trust boundary,GPT-5.1,bounded_trust_with_human_checking,10,0.1
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_hallucination_or_accuracy,11,0.11
+trust_boundary,Fine-grained trust boundary,GPT-5.1,concern_about_ethics_liability_or_accountability,5,0.05
+trust_boundary,Fine-grained trust boundary,GPT-5.1,model_specific_trust,1,0.01
+trust_boundary,Fine-grained trust boundary,GPT-5.1,no_trust_boundary_discussed,55,0.55
+trust_boundary,Fine-grained trust boundary,GPT-5.1,unclear,0,0.0
