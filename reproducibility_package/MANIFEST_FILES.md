@@ -106,6 +106,7 @@ Every file included in this package is listed below. Purposes are intentionally 
 | `SCRIPTS/corpus/download_law_top_commented_ai_threads.py` | Corpus construction or harmonisation script |
 | `SCRIPTS/corpus/filter_law_master_of_laws_llm_false_positives.py` | Corpus construction or harmonisation script |
 | `SCRIPTS/corpus/harmonise_healthcare_to_tiered_sampling.py` | Corpus construction or harmonisation script |
+| `SCRIPTS/corpus/apply_healthcare_total_posts_ranking.py` | Corpus construction or harmonisation script |
 | `SCRIPTS/corpus/harmonise_law_to_tiered_sampling.py` | Corpus construction or harmonisation script |
 | `SCRIPTS/corpus/merge_four_industry_ai_comments_harmonised_total_posts_ranked_v3.py` | Corpus construction or harmonisation script |
 | `SCRIPTS/corpus/rank_ai_discussion_subreddits.py` | Corpus construction or harmonisation script |
