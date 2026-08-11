@@ -1,7 +1,0 @@
-gate,metric,bootstrap_iterations,resampling,estimate_mean,ci_95_lower,ci_95_upper
-explicit_trust_boundary,precision,5000,stratified_by_industry,0.8702,0.7869,0.9429
-explicit_trust_boundary,recall,5000,stratified_by_industry,0.8223,0.7333,0.9048
-explicit_trust_boundary,f1,5000,stratified_by_industry,0.8446,0.7785,0.9032
-explicit_trust_boundary,specificity,5000,stratified_by_industry,0.6674,0.4815,0.84
-explicit_trust_boundary,balanced_accuracy,5000,stratified_by_industry,0.7448,0.6467,0.8396
-explicit_trust_boundary,matthews_correlation_coefficient,5000,stratified_by_industry,0.469,0.278,0.6526
