@@ -31,7 +31,7 @@ industry_models:
   finance: {min_cluster_size: 70, min_samples: 10}
   healthcare: {min_cluster_size: 70, min_samples: 10}
   law: {min_cluster_size: 35, min_samples: 10, corpus_cleaning: "Master of Laws LLM false positives removed"}
-  software_engineering: {min_cluster_size: 50, min_samples: 5}
+  software_engineering: {min_cluster_size: 35, min_samples: 5}
 pooled_model:
   min_cluster_size: 150
   min_samples: 5
