@@ -92,7 +92,7 @@
     "metric": "cosine"
   },
   "hdbscan": {
-    "min_cluster_size": 50,
+    "min_cluster_size": 35,
     "min_samples": 5,
     "metric": "euclidean",
     "prediction_data": true,
