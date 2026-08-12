@@ -50,27 +50,6 @@ weighted_log_odds:
   group_min_document_frequency: 5
   empirical_prior: "pooled corpus term counts + 0.01 Dirichlet smoothing; alpha_0 equals pooled token total"
 validation:
-  development_sample:
-    rows: 150
-    industries:
-      finance: 50
-      law: 50
-      software_engineering: 50
-
-  healthcare_holdout:
-    rows: 50
-    role: initial_cross_industry_transferability_check
-
-  final_random_audit:
-    rows: 200
-    rows_per_industry: 50
-    prediction_blind: true
-    industry_stratified: true
-    selection_used_model_predictions: false
-    selection_used_existing_labels: false
-    selection_used_keywords: false
-
-  production_model: gpt-5-mini
-  robustness_models:
-    - gpt-5.1-2025-11-13
-    - gpt-5.6-sol
+  final_sample: "100 comments, 25 per industry"
+  healthcare_holdout: 50
+  non_healthcare_note: "Enriched for model-identified substantive-trust discourse; not an unconditional random sample."
