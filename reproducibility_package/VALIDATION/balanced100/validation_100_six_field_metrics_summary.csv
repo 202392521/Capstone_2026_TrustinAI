@@ -1,7 +1,0 @@
-field,status,n_total_rows,n_valid,matches_n,mismatches_n,accuracy,macro_f1,weighted_f1,n_human_classes,n_gpt_classes,min_human_class_n,classes_with_human_n_lt_5
-human_attitude,evaluated,100,100,67,33,0.67,0.4771,0.6523,5,4,1,unclear
-human_attitude_target,evaluated,100,100,44,56,0.44,0.3363,0.4449,7,6,2,company_or_deployment_practice;general_AI;unclear
-human_use,evaluated,100,100,63,37,0.63,0.4651,0.6293,10,9,1,client_or_public_facing_advice;learning_or_training;other;unclear
-human_capability_assessment,evaluated,100,100,66,34,0.66,0.5345,0.657,5,4,1,unclear
-human_trust_construct,evaluated,100,100,35,65,0.35,0.2646,0.3646,6,5,1,unclear;multiple_trust_constructs
-human_trust_boundary,evaluated,100,100,56,44,0.56,0.4707,0.5319,9,8,1,model_specific_trust;unclear

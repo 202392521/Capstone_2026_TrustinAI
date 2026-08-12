@@ -1,0 +1,31 @@
+field,field_display,model,class,human_n,predicted_n,correct_n,precision,recall,f1
+attitude,Attitude,GPT-5 mini,positive,42,58,30,0.5172413793103449,0.7142857142857143,0.6
+attitude,Attitude,GPT-5 mini,negative,41,63,35,0.5555555555555556,0.8536585365853658,0.6730769230769231
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,29,38,17,0.4473684210526316,0.5862068965517241,0.5074626865671642
+attitude,Attitude,GPT-5 mini,neutral_descriptive,73,38,27,0.7105263157894737,0.3698630136986301,0.4864864864864865
+attitude,Attitude,GPT-5 mini,unclear,15,3,2,0.6666666666666666,0.13333333333333333,0.2222222222222222
+attitude,Attitude,GPT-5.6,positive,42,59,31,0.5254237288135594,0.7380952380952381,0.6138613861386139
+attitude,Attitude,GPT-5.6,negative,41,69,34,0.4927536231884058,0.8292682926829268,0.6181818181818182
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,29,35,18,0.5142857142857142,0.6206896551724138,0.5625
+attitude,Attitude,GPT-5.6,neutral_descriptive,73,35,25,0.7142857142857143,0.3424657534246575,0.46296296296296297
+attitude,Attitude,GPT-5.6,unclear,15,2,0,0.0,0.0,0.0
+attitude,Attitude,GPT-5.1,positive,42,56,30,0.5357142857142857,0.7142857142857143,0.6122448979591837
+attitude,Attitude,GPT-5.1,negative,41,67,35,0.5223880597014925,0.8536585365853658,0.6481481481481481
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,29,38,18,0.47368421052631576,0.6206896551724138,0.5373134328358209
+attitude,Attitude,GPT-5.1,neutral_descriptive,73,21,16,0.7619047619047619,0.2191780821917808,0.3404255319148936
+attitude,Attitude,GPT-5.1,unclear,15,18,6,0.3333333333333333,0.4,0.36363636363636365
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,37,33,15,0.45454545454545453,0.40540540540540543,0.42857142857142855
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,27,36,21,0.5833333333333334,0.7777777777777778,0.6666666666666666
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,46,64,31,0.484375,0.6739130434782609,0.5636363636363636
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,88,66,52,0.7878787878787878,0.5909090909090909,0.6753246753246753
+capability_assessment,Capability assessment,GPT-5 mini,unclear,2,1,0,0.0,0.0,0.0
+capability_assessment,Capability assessment,GPT-5.6,high_capability,37,45,23,0.5111111111111111,0.6216216216216216,0.5609756097560976
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,27,31,17,0.5483870967741935,0.6296296296296297,0.5862068965517241
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,46,45,25,0.5555555555555556,0.5434782608695652,0.5494505494505495
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,88,78,59,0.7564102564102564,0.6704545454545454,0.7108433734939759
+capability_assessment,Capability assessment,GPT-5.6,unclear,2,1,0,0.0,0.0,0.0
+capability_assessment,Capability assessment,GPT-5.1,high_capability,37,70,33,0.4714285714285714,0.8918918918918919,0.616822429906542
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,27,28,18,0.6428571428571429,0.6666666666666666,0.6545454545454545
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,46,25,17,0.68,0.3695652173913043,0.4788732394366197
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,88,77,63,0.8181818181818182,0.7159090909090909,0.7636363636363637
+capability_assessment,Capability assessment,GPT-5.1,unclear,2,0,0,0.0,0.0,0.0

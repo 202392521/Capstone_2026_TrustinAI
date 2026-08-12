@@ -1,0 +1,6 @@
+field,field_display,model,class,human_n,predicted_n,correct_n,precision,recall,f1
+capability_assessment,Capability assessment,GPT-5.6,high_capability,37,45,23,0.5111111111111111,0.6216216216216216,0.5609756097560976
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,27,31,17,0.5483870967741935,0.6296296296296297,0.5862068965517241
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,46,45,25,0.5555555555555556,0.5434782608695652,0.5494505494505495
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,88,78,59,0.7564102564102564,0.6704545454545454,0.7108433734939759
+capability_assessment,Capability assessment,GPT-5.6,unclear,2,1,0,0.0,0.0,0.0

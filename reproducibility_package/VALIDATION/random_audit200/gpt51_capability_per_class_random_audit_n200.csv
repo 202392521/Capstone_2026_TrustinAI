@@ -1,0 +1,6 @@
+Human-coded category,Support,Correct,Recall,Precision,F1
+High capability,37,33,0.892,0.471,0.617
+Limited capability,27,18,0.667,0.643,0.655
+Mixed or conditional capability,46,17,0.37,0.68,0.479
+No capability assessment,88,63,0.716,0.818,0.764
+Unclear,2,0,0.0,0.0,0.0

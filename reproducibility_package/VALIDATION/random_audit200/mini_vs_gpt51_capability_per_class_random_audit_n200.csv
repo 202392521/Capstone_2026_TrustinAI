@@ -1,0 +1,6 @@
+Human-coded category,Support,Correct - Mini,Recall - Mini,Precision - Mini,F1 - Mini,Correct - GPT-5.1,Recall - GPT-5.1,Precision - GPT-5.1,F1 - GPT-5.1,Higher F1
+High capability,37,15,0.405,0.455,0.429,33,0.892,0.471,0.617,GPT-5.1
+Limited capability,27,21,0.778,0.583,0.667,18,0.667,0.643,0.655,GPT-5 mini
+Mixed or conditional capability,46,31,0.674,0.484,0.564,17,0.37,0.68,0.479,GPT-5 mini
+No capability assessment,88,52,0.591,0.788,0.675,63,0.716,0.818,0.764,GPT-5.1
+Unclear,2,0,0.0,0.0,0.0,0,0.0,0.0,0.0,Tie

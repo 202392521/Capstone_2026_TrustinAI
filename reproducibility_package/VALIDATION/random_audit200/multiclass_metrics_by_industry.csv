@@ -1,0 +1,25 @@
+field,field_display,model,industry,N,accuracy,macro_f1,correct_n
+attitude,Attitude,GPT-5 mini,finance,50,0.58,0.45600539811066126,29
+attitude,Attitude,GPT-5 mini,healthcare,50,0.6,0.5786748912933563,30
+attitude,Attitude,GPT-5 mini,law,50,0.54,0.5023137254901962,27
+attitude,Attitude,GPT-5 mini,software_engineering,50,0.5,0.4345301757066463,25
+attitude,Attitude,GPT-5.6,finance,50,0.56,0.44145196908354806,28
+attitude,Attitude,GPT-5.6,healthcare,50,0.52,0.4198717948717949,26
+attitude,Attitude,GPT-5.6,law,50,0.44,0.38946787979046044,22
+attitude,Attitude,GPT-5.6,software_engineering,50,0.64,0.5435574229691877,32
+attitude,Attitude,GPT-5.1,finance,50,0.5,0.39859649122807017,25
+attitude,Attitude,GPT-5.1,healthcare,50,0.52,0.4395912642756962,26
+attitude,Attitude,GPT-5.1,law,50,0.54,0.5333142491037227,27
+attitude,Attitude,GPT-5.1,software_engineering,50,0.54,0.5511364679651125,27
+capability_assessment,Capability assessment,GPT-5 mini,finance,50,0.6,0.47382209188660795,30
+capability_assessment,Capability assessment,GPT-5 mini,healthcare,50,0.52,0.4103962703962704,26
+capability_assessment,Capability assessment,GPT-5 mini,law,50,0.6,0.434001554001554,30
+capability_assessment,Capability assessment,GPT-5 mini,software_engineering,50,0.66,0.6511647394000335,33
+capability_assessment,Capability assessment,GPT-5.6,finance,50,0.62,0.48071348940914155,31
+capability_assessment,Capability assessment,GPT-5.6,healthcare,50,0.6,0.4689835052748149,30
+capability_assessment,Capability assessment,GPT-5.6,law,50,0.6,0.43166343460461104,30
+capability_assessment,Capability assessment,GPT-5.6,software_engineering,50,0.66,0.644345238095238,33
+capability_assessment,Capability assessment,GPT-5.1,finance,50,0.6,0.46492673992673994,30
+capability_assessment,Capability assessment,GPT-5.1,healthcare,50,0.58,0.42298412698412696,29
+capability_assessment,Capability assessment,GPT-5.1,law,50,0.68,0.5919934640522875,34
+capability_assessment,Capability assessment,GPT-5.1,software_engineering,50,0.76,0.7411637931034484,38

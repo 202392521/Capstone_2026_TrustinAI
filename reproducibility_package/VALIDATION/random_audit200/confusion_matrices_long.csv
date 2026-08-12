@@ -1,0 +1,151 @@
+field,field_display,model,human_label,predicted_label,n
+attitude,Attitude,GPT-5 mini,positive,positive,30
+attitude,Attitude,GPT-5 mini,positive,negative,0
+attitude,Attitude,GPT-5 mini,positive,mixed_or_ambivalent,10
+attitude,Attitude,GPT-5 mini,positive,neutral_descriptive,2
+attitude,Attitude,GPT-5 mini,positive,unclear,0
+attitude,Attitude,GPT-5 mini,negative,positive,3
+attitude,Attitude,GPT-5 mini,negative,negative,35
+attitude,Attitude,GPT-5 mini,negative,mixed_or_ambivalent,3
+attitude,Attitude,GPT-5 mini,negative,neutral_descriptive,0
+attitude,Attitude,GPT-5 mini,negative,unclear,0
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,positive,5
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,negative,4
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,mixed_or_ambivalent,17
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,neutral_descriptive,3
+attitude,Attitude,GPT-5 mini,mixed_or_ambivalent,unclear,0
+attitude,Attitude,GPT-5 mini,neutral_descriptive,positive,17
+attitude,Attitude,GPT-5 mini,neutral_descriptive,negative,21
+attitude,Attitude,GPT-5 mini,neutral_descriptive,mixed_or_ambivalent,7
+attitude,Attitude,GPT-5 mini,neutral_descriptive,neutral_descriptive,27
+attitude,Attitude,GPT-5 mini,neutral_descriptive,unclear,1
+attitude,Attitude,GPT-5 mini,unclear,positive,3
+attitude,Attitude,GPT-5 mini,unclear,negative,3
+attitude,Attitude,GPT-5 mini,unclear,mixed_or_ambivalent,1
+attitude,Attitude,GPT-5 mini,unclear,neutral_descriptive,6
+attitude,Attitude,GPT-5 mini,unclear,unclear,2
+attitude,Attitude,GPT-5.6,positive,positive,31
+attitude,Attitude,GPT-5.6,positive,negative,0
+attitude,Attitude,GPT-5.6,positive,mixed_or_ambivalent,9
+attitude,Attitude,GPT-5.6,positive,neutral_descriptive,2
+attitude,Attitude,GPT-5.6,positive,unclear,0
+attitude,Attitude,GPT-5.6,negative,positive,4
+attitude,Attitude,GPT-5.6,negative,negative,34
+attitude,Attitude,GPT-5.6,negative,mixed_or_ambivalent,1
+attitude,Attitude,GPT-5.6,negative,neutral_descriptive,1
+attitude,Attitude,GPT-5.6,negative,unclear,1
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,positive,5
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,negative,4
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,mixed_or_ambivalent,18
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,neutral_descriptive,2
+attitude,Attitude,GPT-5.6,mixed_or_ambivalent,unclear,0
+attitude,Attitude,GPT-5.6,neutral_descriptive,positive,17
+attitude,Attitude,GPT-5.6,neutral_descriptive,negative,24
+attitude,Attitude,GPT-5.6,neutral_descriptive,mixed_or_ambivalent,6
+attitude,Attitude,GPT-5.6,neutral_descriptive,neutral_descriptive,25
+attitude,Attitude,GPT-5.6,neutral_descriptive,unclear,1
+attitude,Attitude,GPT-5.6,unclear,positive,2
+attitude,Attitude,GPT-5.6,unclear,negative,7
+attitude,Attitude,GPT-5.6,unclear,mixed_or_ambivalent,1
+attitude,Attitude,GPT-5.6,unclear,neutral_descriptive,5
+attitude,Attitude,GPT-5.6,unclear,unclear,0
+attitude,Attitude,GPT-5.1,positive,positive,30
+attitude,Attitude,GPT-5.1,positive,negative,1
+attitude,Attitude,GPT-5.1,positive,mixed_or_ambivalent,9
+attitude,Attitude,GPT-5.1,positive,neutral_descriptive,2
+attitude,Attitude,GPT-5.1,positive,unclear,0
+attitude,Attitude,GPT-5.1,negative,positive,4
+attitude,Attitude,GPT-5.1,negative,negative,35
+attitude,Attitude,GPT-5.1,negative,mixed_or_ambivalent,1
+attitude,Attitude,GPT-5.1,negative,neutral_descriptive,0
+attitude,Attitude,GPT-5.1,negative,unclear,1
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,positive,5
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,negative,3
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,mixed_or_ambivalent,18
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,neutral_descriptive,2
+attitude,Attitude,GPT-5.1,mixed_or_ambivalent,unclear,1
+attitude,Attitude,GPT-5.1,neutral_descriptive,positive,16
+attitude,Attitude,GPT-5.1,neutral_descriptive,negative,22
+attitude,Attitude,GPT-5.1,neutral_descriptive,mixed_or_ambivalent,9
+attitude,Attitude,GPT-5.1,neutral_descriptive,neutral_descriptive,16
+attitude,Attitude,GPT-5.1,neutral_descriptive,unclear,10
+attitude,Attitude,GPT-5.1,unclear,positive,1
+attitude,Attitude,GPT-5.1,unclear,negative,6
+attitude,Attitude,GPT-5.1,unclear,mixed_or_ambivalent,1
+attitude,Attitude,GPT-5.1,unclear,neutral_descriptive,1
+attitude,Attitude,GPT-5.1,unclear,unclear,6
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,high_capability,15
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,limited_capability,1
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,mixed_or_conditional_capability,18
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,no_capability_assessment,3
+capability_assessment,Capability assessment,GPT-5 mini,high_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,high_capability,0
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,limited_capability,21
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,mixed_or_conditional_capability,1
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,no_capability_assessment,5
+capability_assessment,Capability assessment,GPT-5 mini,limited_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,high_capability,6
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,limited_capability,5
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,mixed_or_conditional_capability,31
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,no_capability_assessment,4
+capability_assessment,Capability assessment,GPT-5 mini,mixed_or_conditional_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,high_capability,12
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,limited_capability,9
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,mixed_or_conditional_capability,14
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,no_capability_assessment,52
+capability_assessment,Capability assessment,GPT-5 mini,no_capability_assessment,unclear,1
+capability_assessment,Capability assessment,GPT-5 mini,unclear,high_capability,0
+capability_assessment,Capability assessment,GPT-5 mini,unclear,limited_capability,0
+capability_assessment,Capability assessment,GPT-5 mini,unclear,mixed_or_conditional_capability,0
+capability_assessment,Capability assessment,GPT-5 mini,unclear,no_capability_assessment,2
+capability_assessment,Capability assessment,GPT-5 mini,unclear,unclear,0
+capability_assessment,Capability assessment,GPT-5.6,high_capability,high_capability,23
+capability_assessment,Capability assessment,GPT-5.6,high_capability,limited_capability,1
+capability_assessment,Capability assessment,GPT-5.6,high_capability,mixed_or_conditional_capability,8
+capability_assessment,Capability assessment,GPT-5.6,high_capability,no_capability_assessment,5
+capability_assessment,Capability assessment,GPT-5.6,high_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,high_capability,0
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,limited_capability,17
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,mixed_or_conditional_capability,4
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,no_capability_assessment,6
+capability_assessment,Capability assessment,GPT-5.6,limited_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,high_capability,9
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,limited_capability,5
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,mixed_or_conditional_capability,25
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,no_capability_assessment,7
+capability_assessment,Capability assessment,GPT-5.6,mixed_or_conditional_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,high_capability,12
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,limited_capability,8
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,mixed_or_conditional_capability,8
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,no_capability_assessment,59
+capability_assessment,Capability assessment,GPT-5.6,no_capability_assessment,unclear,1
+capability_assessment,Capability assessment,GPT-5.6,unclear,high_capability,1
+capability_assessment,Capability assessment,GPT-5.6,unclear,limited_capability,0
+capability_assessment,Capability assessment,GPT-5.6,unclear,mixed_or_conditional_capability,0
+capability_assessment,Capability assessment,GPT-5.6,unclear,no_capability_assessment,1
+capability_assessment,Capability assessment,GPT-5.6,unclear,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,high_capability,high_capability,33
+capability_assessment,Capability assessment,GPT-5.1,high_capability,limited_capability,0
+capability_assessment,Capability assessment,GPT-5.1,high_capability,mixed_or_conditional_capability,2
+capability_assessment,Capability assessment,GPT-5.1,high_capability,no_capability_assessment,2
+capability_assessment,Capability assessment,GPT-5.1,high_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,high_capability,0
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,limited_capability,18
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,mixed_or_conditional_capability,4
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,no_capability_assessment,5
+capability_assessment,Capability assessment,GPT-5.1,limited_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,high_capability,18
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,limited_capability,5
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,mixed_or_conditional_capability,17
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,no_capability_assessment,6
+capability_assessment,Capability assessment,GPT-5.1,mixed_or_conditional_capability,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,high_capability,18
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,limited_capability,5
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,mixed_or_conditional_capability,2
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,no_capability_assessment,63
+capability_assessment,Capability assessment,GPT-5.1,no_capability_assessment,unclear,0
+capability_assessment,Capability assessment,GPT-5.1,unclear,high_capability,1
+capability_assessment,Capability assessment,GPT-5.1,unclear,limited_capability,0
+capability_assessment,Capability assessment,GPT-5.1,unclear,mixed_or_conditional_capability,0
+capability_assessment,Capability assessment,GPT-5.1,unclear,no_capability_assessment,1
+capability_assessment,Capability assessment,GPT-5.1,unclear,unclear,0

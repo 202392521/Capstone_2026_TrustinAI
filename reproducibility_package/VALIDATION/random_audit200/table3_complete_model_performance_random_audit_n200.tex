@@ -1,0 +1,19 @@
+\begin{table}
+\caption{Model performance on the prediction-blind random validation audit ($N=200$).}
+\label{tab:model-performance-random-audit-200}
+\begin{tabular}{llrrrrrrrr}
+\toprule
+Field & Model & Accuracy & Macro-F1 & Weighted-F1 & Balanced accuracy & Precision & Recall & F1 & MCC \\
+\midrule
+Attitude & GPT-5 mini & 0.555 & 0.498 & 0.532 & 0.531 & 0.579 & 0.531 & 0.498 & 0.443 \\
+Attitude & GPT-5.6 Sol & 0.540 & 0.452 & 0.506 & 0.506 & 0.449 & 0.506 & 0.452 & 0.427 \\
+Attitude & GPT-5.1 & 0.525 & 0.500 & 0.491 & 0.562 & 0.525 & 0.562 & 0.500 & 0.431 \\
+Capability assessment & GPT-5 mini & 0.595 & 0.467 & 0.596 & 0.490 & 0.462 & 0.490 & 0.467 & 0.449 \\
+Capability assessment & GPT-5.6 Sol & 0.620 & 0.481 & 0.622 & 0.493 & 0.474 & 0.493 & 0.481 & 0.469 \\
+Capability assessment & GPT-5.1 & 0.655 & 0.503 & 0.649 & 0.529 & 0.522 & 0.529 & 0.503 & 0.535 \\
+Explicit trust boundary & GPT-5 mini & 0.750 & 0.746 & 0.748 & 0.745 & 0.775 & 0.660 & 0.713 & 0.499 \\
+Explicit trust boundary & GPT-5.6 Sol & 0.715 & 0.707 & 0.710 & 0.708 & 0.753 & 0.585 & 0.659 & 0.431 \\
+Explicit trust boundary & GPT-5.1 & 0.680 & 0.648 & 0.655 & 0.664 & 0.826 & 0.404 & 0.543 & 0.390 \\
+\bottomrule
+\end{tabular}
+\end{table}

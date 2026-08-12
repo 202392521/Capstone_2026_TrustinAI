@@ -1,0 +1,64 @@
+{
+  "evaluation_files": [
+    "work_outputs/balanced_2000_random_validation_100_2026-08-12/random_validation_100_human_annotated.csv",
+    "work_outputs/balanced_2000_random_validation_100_batch2_2026-08-12/random_validation_100_batch2_human_annotated.csv"
+  ],
+  "N": 200,
+  "unique_comment_ids": 200,
+  "audit_batch_counts": {
+    "batch_1": 100,
+    "batch_2": 100
+  },
+  "industry_counts": {
+    "finance": 50,
+    "healthcare": 50,
+    "law": 50,
+    "software_engineering": 50
+  },
+  "source_files": {
+    "mini": "work_outputs/balanced_2000_final_stance_analysis_2026-08-01/balanced_2000_stance_analysis.csv",
+    "gpt56": "work_outputs/gpt56_balanced_2000_capability_2026-08-12/checkpoints.jsonl",
+    "gpt51": "work_outputs/gpt51_balanced_2000_attitude_2026-08-11/api_run/validation_stage_1_single_none/checkpoints.jsonl"
+  },
+  "model_ids": {
+    "mini": [
+      "gpt-5-mini"
+    ],
+    "gpt56": [
+      "gpt-5.6-sol"
+    ],
+    "gpt51": [
+      "gpt-5.1-2025-11-13"
+    ]
+  },
+  "prompt_hashes": {
+    "mini": [
+      "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38"
+    ],
+    "gpt56": [
+      "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38"
+    ],
+    "gpt51": [
+      "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38"
+    ]
+  },
+  "schema_hashes": {
+    "mini": [
+      "5026c5b22df9e0820abfaf7351a032960d6f1a9ea4bf0f6e2e8722f43fe8d52d"
+    ],
+    "gpt56": [
+      "395567b00f1468ce1513126cb0cfb073173f11621087c003d8668500b6073147"
+    ],
+    "gpt51": [
+      "395567b00f1468ce1513126cb0cfb073173f11621087c003d8668500b6073147"
+    ]
+  },
+  "raw_boundary_unclear_counts": {
+    "gpt56": 1,
+    "gpt51": 0
+  },
+  "boundary_mapping_note": "The seven explicit fine-grained boundary labels map to yes; no_trust_boundary_discussed and unclear map to no.",
+  "api_requests_made_by_this_script": 0,
+  "production_model_decision": "GPT-5 mini remains the production model for attitude, capability assessment, and explicit trust boundary. GPT-5.6 capability results are retained as robustness/model-comparison evidence only.",
+  "batch_overlap_n": 0
+}
