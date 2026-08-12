@@ -6,9 +6,9 @@ This directory contains the final headline validation aggregates used in the dis
 - Each batch contained 25 comments from each of the four industries; the combined audit therefore contains 50 comments per industry.
 - Sampling did not use model predictions, predicted labels, keywords, or substantive-trust prefilters.
 - Human coding was completed without displaying model predictions, human notes from earlier exercises, or model-specific selection information.
-- Prompt/codebook definitions and the production-model decision were frozen before the second batch was coded.
+- The prompt, codebook and GPT-5 mini production labels were frozen before the prediction-blind random audit; no revisions were made between audit batches.
 
-The final production decision remained GPT-5 mini for attitude, capability assessment, and explicit trust boundary. GPT-5.1 attitude and GPT-5.6 capability outputs are sensitivity/model-comparison evidence; they do not replace the production labels.
+The final production decision remained GPT-5 mini for attitude, capability assessment, and explicit trust boundary. GPT-5.1 attitude and GPT-5.6 Sol capability outputs are sensitivity/model-comparison evidence; they do not replace the production labels.
 
 ## Included
 

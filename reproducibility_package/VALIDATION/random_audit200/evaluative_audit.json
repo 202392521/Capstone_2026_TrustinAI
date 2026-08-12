@@ -1,0 +1,54 @@
+{
+  "audit_name": "prediction-blind industry-stratified random validation audit",
+  "N": 200,
+  "unique_comments": 200,
+
+  "sampling_frame": "balanced 2000-comment analytical sample",
+  "audit_batches": {
+    "batch_1": 100,
+    "batch_2": 100,
+    "batch_overlap_n": 0
+  },
+
+  "industry_counts": {
+    "finance": 50,
+    "healthcare": 50,
+    "law": 50,
+    "software_engineering": 50
+  },
+
+  "sampling": {
+    "prediction_blind_human_coding": true,
+    "industry_stratified": true,
+    "random_within_industry": true,
+    "independent_of_model_predictions": true,
+    "independent_of_existing_labels": true,
+    "independent_of_keyword_selection": true,
+    "batch_1_seed": 20260812,
+    "batch_2_seed": 20260813
+  },
+
+  "model_ids": {
+    "gpt5_mini": "gpt-5-mini",
+    "gpt56_sol": "gpt-5.6-sol",
+    "gpt51": "gpt-5.1-2025-11-13"
+  },
+
+  "prompt_hashes": {
+    "gpt5_mini": "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38",
+    "gpt56_sol": "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38",
+    "gpt51": "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38"
+  },
+
+  "schema_hashes": {
+    "gpt5_mini": "5026c5b22df9e0820abfaf7351a032960d6f1a9ea4bf0f6e2e8722f43fe8d52d",
+    "gpt56_sol": "395567b00f1468ce1513126cb0cfb073173f11621087c003d8668500b6073147",
+    "gpt51": "395567b00f1468ce1513126cb0cfb073173f11621087c003d8668500b6073147"
+  },
+
+  "boundary_mapping_note": "The seven explicit fine-grained boundary labels map to yes; no_trust_boundary_discussed and unclear map to no.",
+
+  "production_model_decision": "GPT-5 mini remained the frozen production model for attitude, capability assessment and explicit trust boundary. GPT-5.1 and GPT-5.6 Sol were used only as robustness comparators and were not used to revise production labels.",
+
+  "api_requests_made_by_offline_evaluation_script": 0
+}
