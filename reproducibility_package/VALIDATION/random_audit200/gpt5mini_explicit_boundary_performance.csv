@@ -1,2 +1,0 @@
-field,model,N,gold_positive_n,gold_negative_n,predicted_positive_n,predicted_negative_n,TP,TN,FP,FN,accuracy,precision,recall,specificity,balanced_accuracy,NPV,F1,MCC,gold_positive_prevalence,predicted_positive_prevalence
-explicit_trust_boundary,GPT-5 mini,200,94,106,80,120,62,88,18,32,0.75,0.775,0.6595744680851063,0.8301886792452831,0.7448815736651947,0.7333333333333333,0.7126436781609196,0.49896185548224153,0.47,0.4

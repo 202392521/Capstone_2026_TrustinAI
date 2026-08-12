@@ -1,6 +1,0 @@
-Human-coded category,Support,Correct,Recall,Precision,F1
-Negative,41,35,0.854,0.556,0.673
-Positive,42,30,0.714,0.517,0.6
-Mixed or ambivalent,29,17,0.586,0.447,0.507
-Neutral or descriptive,73,27,0.37,0.711,0.486
-Unclear,15,2,0.133,0.667,0.222
