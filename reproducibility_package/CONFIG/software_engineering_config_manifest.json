@@ -1,6 +1,6 @@
 {
   "industry": "software_engineering",
-  "input_file": "/Users/qichenzhao/Documents/Codex/2026-06-26/hi/outputs/four_industry_ai_comments_master_harmonised_total_posts_ranked_v3.csv",
+  "input_file": "outputs/four_industry_ai_comments_master_harmonised_total_posts_ranked_v3.csv",
   "total_rows": 19041,
   "modelled_rows": 18813,
   "excluded_empty_unusable_rows": 228,
@@ -9,7 +9,7 @@
   "topics_found_including_outlier": 52,
   "outlier_count": 7220,
   "outlier_rate": 0.383777,
-  "embedding_model": "/Users/qichenzhao/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
   "random_seed": 42,
   "min_topic_size": 50,
   "min_samples": 5,
@@ -85,6 +85,7 @@
   "post_month_outside_window_rows": 0,
   "comment_month_outside_window_rows": 111,
   "run_timestamp": "2026-07-25T19:18:00",
+  "output_dir": "outputs/software_engineering_top_commented_ai_threads/bertopic_software_engineering_final_v3_comment_body_only_identity_stopwords_sensitivity_min50_ms5",
   "umap": {
     "n_neighbors": 15,
     "n_components": 5,
@@ -92,7 +93,7 @@
     "metric": "cosine"
   },
   "hdbscan": {
-    "min_cluster_size": 35,
+    "min_cluster_size": 50,
     "min_samples": 5,
     "metric": "euclidean",
     "prediction_data": true,
