@@ -1,0 +1,41 @@
+pipeline_version: gpt51-balanced-2000-attitude-v1
+model: gpt-5.1-2025-11-13
+processing_mode: standard
+api_endpoint: /v1/responses
+service_tier: default
+
+paths:
+  frozen_prompt_v2: ../PROMPTS/FROZEN_PROMPT_V2.txt
+  validation_100: ../work_outputs/gpt51_balanced_2000_attitude_2026-08-11/balanced_2000_gpt51_blinded_model_input.csv
+  production_input: ../work_outputs/gpt51_balanced_2000_attitude_2026-08-11/balanced_2000_gpt51_blinded_model_input.csv
+  output_dir: ../work_outputs/gpt51_balanced_2000_attitude_2026-08-11/api_run
+
+validation:
+  expected_rows: 2000
+  expected_per_industry: 500
+  reasoning_efforts:
+    - none
+  stage_3_microbatch_size: 10
+  material_f1_delta: 0.02
+  material_mcc_delta: 0.05
+
+requests:
+  request_mode: single
+  microbatch_size: 1
+  variable_token_ceiling: 12000
+  max_output_tokens_single: 400
+  max_output_tokens_microbatch: 2000
+  max_retries: 2
+  timeout_seconds: 180
+  cache_ttl: 30m
+  # The runner guards against the no-cache, maximum-output ceiling. The
+  # cache-typical dry-run estimate is about $3.86; $20 permits the run while
+  # retaining a conservative ceiling for the worst case.
+  max_estimated_cost_usd: 20.0
+  typical_label_tokens_per_comment: 115
+
+pricing_usd_per_million_tokens:
+  input_per_million: 1.25
+  cache_write_per_million: 1.25
+  cached_input_per_million: 0.125
+  output_per_million: 10.0

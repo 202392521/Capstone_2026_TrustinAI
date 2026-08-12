@@ -1,0 +1,70 @@
+{
+  "release_date": "2026-08-12",
+  "balanced_analytical_sample": {
+    "rows": 2000,
+    "rows_per_industry": 500,
+    "industries": [
+      "finance",
+      "healthcare",
+      "law",
+      "software_engineering"
+    ]
+  },
+  "frozen_prompt_sha256": "b798f356c3b076a7aebae76d71d72917d76faec24896b669f177e58951c93a38",
+  "model_passes": {
+    "gpt51_attitude_robustness": {
+      "model": "gpt-5.1-2025-11-13",
+      "schema_sha256": "395567b00f1468ce1513126cb0cfb073173f11621087c003d8668500b6073147",
+      "completed_rows": 2000,
+      "missing_rows": 0,
+      "input_fields": [
+        "comment_id",
+        "parent_context",
+        "target_comment"
+      ],
+      "human_labels_visible_to_model": false,
+      "store": false,
+      "tools": [],
+      "role": "robustness_only"
+    },
+    "gpt56_capability_robustness": {
+      "model": "gpt-5.6-sol",
+      "schema_sha256": "395567b00f1468ce1513126cb0cfb073173f11621087c003d8668500b6073147",
+      "completed_rows": 2000,
+      "missing_rows": 0,
+      "input_fields": [
+        "comment_id",
+        "parent_context",
+        "target_comment"
+      ],
+      "human_labels_visible_to_model": false,
+      "store": false,
+      "tools": [],
+      "role": "robustness_only"
+    }
+  },
+  "final_random_audit": {
+    "rows": 200,
+    "batches": 2,
+    "rows_per_batch": 100,
+    "rows_per_industry_overall": 50,
+    "batch_overlap_rows": 0,
+    "prediction_blind_human_coding": true,
+    "selection_used_model_predictions": false,
+    "selection_used_labels": false,
+    "selection_used_keywords": false
+  },
+  "production_decision": {
+    "attitude": "gpt-5-mini",
+    "capability_assessment": "gpt-5-mini",
+    "explicit_trust_boundary": "gpt-5-mini",
+    "note": "GPT-5.1 and GPT-5.6 Sol outputs are retained as robustness/model-comparison evidence only and were not used to revise GPT-5 mini production labels."
+  },
+  "privacy": {
+    "api_credentials_in_package": false,
+    "comment_text_in_package": false,
+    "comment_identifiers_in_package": false,
+    "human_gold_rows_in_package": false,
+    "row_level_predictions_in_package": false
+  }
+}
