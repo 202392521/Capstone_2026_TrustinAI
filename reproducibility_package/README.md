@@ -1,4 +1,5 @@
-# Professional AI Trust Boundaries on Reddit
+# Occupational Responses to Generative AI:
+## A Cross-Industry Analysis of Themes, Attitudes and Trust Boundaries on Reddit
 
 This repository is the final reproducibility package for a dissertation on professional discussions of AI across finance and accounting, law, software engineering and IT, and healthcare. It contains frozen scripts, settings, researcher-led topic mappings, non-sensitive audit outputs, and publication figures. It intentionally excludes Reddit comment text, comment identifiers, usernames, raw human-coded rows, model-prediction rows, API credentials, cached embeddings, and fitted model binaries.
 
@@ -13,7 +14,7 @@ The collection window was March 2023 through January 2026. A post was eligible w
 3. **Industry BERTopic**: `SCRIPTS/bertopic/bertopic_industry_comment_body_only.py` fits the four final comment-body-only models. Final settings are in `CONFIG/frozen_analysis_settings.yml`.
 4. **Pooled BERTopic and JSD**: `cross_industry_pooled_bertopic.py` produces pooled assignments and industry-distribution diagnostics. Jensen-Shannon divergence compares `P(industry | topic)` against the pooled-modelled-corpus industry baseline.
 5. **GPT-assisted annotation**: `PROMPTS/FROZEN_PROMPT_V2.txt` contains the frozen V2 coding instructions; the accompanying structured output schema is implemented in the annotation/validation scripts.
-6. **Validation**: `VALIDATION/` contains aggregate healthcare holdout, final 100-comment, and blinded three-model comparison metrics. The non-healthcare segment of the final validation was selected from comments predicted by GPT-5 mini to contain substantive-trust content.
+6. **Validation**: `VALIDATION/` contains aggregate results from the 50-comment healthcare holdout and the final prediction-blind, industry-stratified random audit of 200 comments (50 per industry), including the three-model comparison. The final audit was sampled independently of model predictions, existing labels and keyword-based selection.
 7. **Weighted log-odds**: `run_explicit_boundary_lexical_analysis.py` compares explicit-boundary-positive and -negative comments using an empirical pooled-count Dirichlet prior.
 8. **Explicit trust-boundary BERTopic**: `run_explicit_boundary_bertopic.py` fits the 861-comment positive-boundary subset (858 modelled after blank/short exclusion). `MAPPINGS/` records 22 raw topics, 14 reporting themes, and six meta-themes.
 9. **Robustness**: `ROBUSTNESS/` preserves the pre-specified UMAP grid and all reported sensitivity outputs. It was post-hoc and was not used to select parameters or relabel topics.

@@ -9,12 +9,14 @@
 - `.gitignore`: prevents sensitive corpora, models, caches, and credentials entering Git.
 - `LICENSE` / `CITATION.cff`: code licensing and citation metadata.
 - `TOPIC_MODELS_AND_META_MAPPING_MASTER_LOCK_2026-07-29.md`: frozen model/mapping status.
+- `PACKAGE_UPDATE_2026-08-12.md`: scope, portability and privacy record for the final package additions.
 
 ## CONFIG
 
 - `frozen_analysis_settings.yml`: portable final parameter ledger.
 - `README.md`: provenance and use of the configuration records.
 - `*_config_manifest.json`, `*_bertopic_run_summary.csv`, `pooled_bertopic_run_summary.csv`, and `explicit_boundary_run_manifest_source.json`: final-run configuration and aggregate model audit records.
+- `final_annotation_provenance_2026-08-12.json`: sanitised model, hash, privacy, completion, and validation provenance for the final annotation work.
 
 ## PROMPTS
 
@@ -43,8 +45,9 @@
 ## VALIDATION
 
 - `holdout50/*`: non-sensitive healthcare-holdout aggregate metrics and matrices.
-- `balanced100/*`: final 100-comment aggregate metrics, bootstrap results, and matrices.
-- `model_comparison/*`: blinded Mini/5.6/5.1 aggregate comparisons and figures.
+- `balanced100/*`: historical model-enriched 100-comment audit, retained for provenance and marked superseded.
+- `model_comparison/*`: historical balanced-100 Mini/5.6/5.1 aggregate comparisons and figures.
+- `random_audit200/*`: final two-batch prediction-blind random audit (N=200), including three-model summaries, per-class metrics, confusion matrices, and Table 3 sources. Row-level gold labels and comment text are excluded.
 
 ## ROBUSTNESS
 
@@ -57,5 +60,6 @@
 - `summary_tables/*`: safe aggregate corpus, topic, attitude/boundary, and industry composition source tables.
 - `figures/*`: final non-sensitive BERTopic and trust-boundary publication figures.
 - `lexical/*`: weighted-log-odds keyness tables, lexical diagnostics, and figures without KWIC or comment text.
+- `stance_robustness/*`: aggregate GPT-5.1 attitude and three-model capability sensitivity tables and figures.
 
 All other project artefacts, particularly comment-level files, IDs, annotations, prediction rows, fitted models, and embeddings, are deliberately excluded. [`MANIFEST_FILES.md`](MANIFEST_FILES.md) is the complete, per-file index for this release.
