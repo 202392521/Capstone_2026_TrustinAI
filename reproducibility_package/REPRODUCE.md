@@ -24,7 +24,7 @@ python SCRIPTS/bertopic/bertopic_industry_comment_body_only.py --help
 ```bash
 PYTHONPATH=SCRIPTS/bertopic python SCRIPTS/bertopic/cross_industry_pooled_bertopic.py --help
 ```
-5. Run the explicit-boundary model only with a locally available copy of the frozen boundary-positive annotation subset; this subset is not distributed in the repository::
+5. Run the explicit-boundary model only with a locally available copy of the frozen boundary-positive annotation subset; this subset is not distributed in the repository:
 ```bash
 PYTHONPATH=SCRIPTS/bertopic python SCRIPTS/bertopic/run_explicit_boundary_bertopic.py --help
 ```
